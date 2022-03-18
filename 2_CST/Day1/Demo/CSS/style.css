@@ -1,0 +1,27 @@
+/*Type Selector*/
+h6{
+    background-color: chartreuse;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    border-bottom: 1px solid black;
+}
+/*Group Selector*/
+h6, h4{
+    font-size: 15px;
+}
+
+/*ID Selector*/
+#ff{
+    background-color: cyan;
+}
+
+
+/*Class Selector*/
+.hhh1{
+
+}
+
+div#pp1{
+    
+}

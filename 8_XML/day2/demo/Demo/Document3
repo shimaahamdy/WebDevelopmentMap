@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="price" type="myType">
+    </xs:element>
+  <xs:simpleType name="myType">
+    <xs:union memberTypes="xs:integer xs:string"></xs:union>
+  </xs:simpleType>
+    <xs:element  name="Value">
+        <xs:simpleType>
+            <xs:union memberTypes="xs:integer xs:string"></xs:union>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="view" type="valueList">
+    
+    </xs:element>
+<xs:simpleType name ="valueList">
+  <xs:list itemType="xs:integer"></xs:list>
+</xs:simpleType>
+  <xs:element name="Phone" type="telphoneNum"></xs:element>
+<xs:simpleType name="telphoneNum">
+  <xs:restriction base="xs:string">
+      <xs:length value="8"/>
+      <xs:pattern value="\d{3}-\d{4}"/>
+  </xs:restriction>
+</xs:simpleType>  
+
+<xs:simpleType name="Shape">
+      <xs:restriction base="xs:string">
+            <xs:enumeration value="circle"></xs:enumeration>
+            <xs:enumeration value="triangle">
+            </xs:enumeration>
+            <xs:enumeration value="square"></xs:enumeration>
+      </xs:restriction>
+</xs:simpleType>
+<xs:element name="Shape2" type="Shape"></xs:element>
+
+<xs:simpleType name="myInteger">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="10" fixed="true"></xs:minInclusive>    
+      <xs:maxInclusive value="10000"></xs:maxInclusive>
+    </xs:restriction>
+</xs:simpleType>
+<xs:element name="myValue" type="newRang"></xs:element>
+
+<xs:simpleType name="newRang">
+<xs:restriction base="myInteger">
+  <!--<xs:minInclusive value="100"/>-->
+</xs:restriction>
+</xs:simpleType>
+
+<xs:element name="person" type="Name">
+    <!--<xs:complexType mixed="true">
+      <xs:sequence>
+      <xs:element name="frstname" type="xs:string" minOccurs="0"  maxOccurs="2">    
+      </xs:element>      
+      <xs:element name="lastname" type="xs:string"></xs:element>
+      </xs:sequence>    
+    </xs:complexType>-->
+</xs:element>
+
+<xs:complexType name="Name">
+    <xs:sequence>
+      <xs:element name="frstname" type="xs:string" minOccurs="0"  maxOccurs="2">    
+      </xs:element>      
+      <xs:element name="lastname" type="xs:string"></xs:element>
+      </xs:sequence>    
+</xs:complexType>
+
+<xs:element name="son">
+<xs:complexType>
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="age" type="xs:integer" use="required"></xs:attribute>
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="father">
+<xs:complexType mixed="true">
+<xs:sequence>
+<xs:group ref="family"></xs:group>
+<xs:element name="son" type="xs:string"></xs:element>
+</xs:sequence>
+<xs:attributeGroup ref="fatherAttributes"></xs:attributeGroup>
+</xs:complexType>
+</xs:element>
+
+<xs:group name="family">
+<xs:sequence>
+<xs:element ref="mother" ></xs:element>
+<xs:element name="daughter" type="xs:string"></xs:element>
+
+</xs:sequence>
+</xs:group>
+
+<xs:attributeGroup name="fatherAttributes">
+<xs:attribute name="job" type="xs:string"></xs:attribute>
+<xs:attribute name="age" type="xs:integer"></xs:attribute>
+</xs:attributeGroup>
+
+<xs:element name="mother" >
+<xs:complexType>
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="age" type="xs:integer"></xs:attribute>
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+  <xs:complexType name="publication" >
+    <xs:sequence>
+    <xs:element name="title" type="xs:string" maxOccurs="unbounded"></xs:element>    
+    <xs:element name="author" type="xs:string" maxOccurs="unbounded"></xs:element>
+    </xs:sequence>  
+  </xs:complexType>
+
+
+
+  <xs:complexType name="single">
+  <xs:complexContent>
+<xs:restriction base="publication">
+<xs:sequence>
+<xs:element name="title" type="xs:string" maxOccurs="unbounded"></xs:element>    
+  <xs:element name="author" type="xs:string"></xs:element>
+</xs:sequence>
+</xs:restriction>  
+</xs:complexContent>
+  </xs:complexType>
+
+<xs:complexType name="single2">
+  <xs:complexContent>
+<xs:extension base="publication">
+<xs:sequence>
+  <xs:element name="isbn" type="xs:string"></xs:element>
+</xs:sequence>
+</xs:extension>  
+</xs:complexContent>
+  </xs:complexType>
+  
+
+<xs:element name="Info" type="single"></xs:element>
+
+
+
+
+
+
+
+<xs:element name="internationalPrice">
+<xs:complexType>
+<xs:complexContent>
+<xs:restriction base="xs:anyType">
+<xs:attribute name="currency" type="xs:string" default="LE"></xs:attribute>
+</xs:restriction>
+</xs:complexContent>
+</xs:complexType>
+</xs:element>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</xs:schema>

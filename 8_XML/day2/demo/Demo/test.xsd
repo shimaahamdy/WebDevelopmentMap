@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+		<xs:simpleType name="valueinteger">
+			<xs:list itemType="xs:integer"/>
+		</xs:simpleType>
+		<xs:simpleType name="valuesString">
+			<xs:list itemType="xs:string"></xs:list>
+		</xs:simpleType>
+		<xs:simpleType name="UnionData">
+		<xs:union memberTypes="xs:integer xs:string"/>
+		</xs:simpleType>
+		
+		<xs:simpleType name="TelephoneNumber">
+			<xs:restriction base="xs:string">
+				<xs:length value="8" />
+				<!--<xs:pattern value="\d{3}-\d{4}"/>-->
+			</xs:restriction>
+		</xs:simpleType>
+		<xs:simpleType name="new">
+			<xs:restriction base="TelephoneNumber">
+			<xs:length value="8"/>
+			</xs:restriction>
+		</xs:simpleType>
+		
+		<xs:simpleType name="Shape">
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="Circle"/>
+				<xs:enumeration value="Triangle"/>
+				<xs:enumeration value="Heart"/>
+			</xs:restriction>
+		</xs:simpleType>
+		
+		<xs:simpleType name="myInteger">
+			<xs:restriction base="xs:integer">
+			<xs:minInclusive value="10"></xs:minInclusive>			
+			</xs:restriction>
+		</xs:simpleType>
+		
+		<xs:simpleType name="myNewType">
+			<xs:restriction base="myInteger">
+			<xs:maxInclusive value="60"></xs:maxInclusive>
+			</xs:restriction>
+		
+		</xs:simpleType>
+		<xs:simpleType name= "EarthSurfaceElevation">
+    <xs:restriction base="xs:integer">
+        <xs:minInclusive value="-1290"/>
+        <xs:maxInclusive value="29035"/>
+    </xs:restriction>
+</xs:simpleType>
+
+	<xs:simpleType 
+		 name= "BostonAreaSurfaceElevation">
+	<xs:restriction base="EarthSurfaceElevation">
+	<xs:minInclusive value="0"/>
+	<xs:maxInclusive value="120"/>
+	</xs:restriction>
+	</xs:simpleType>
+
+	<!--<xs:element name="price" type="xs:decimal">
+		
+	</xs:element>-->
+	<!--<xs:element name="values" type="valuesString">
+	</xs:element>-->
+	<xs:element name="values" type="myNewType">
+	</xs:element>
+</xs:schema>

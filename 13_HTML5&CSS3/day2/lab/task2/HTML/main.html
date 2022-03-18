@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>task1</title>
+        <link href="../Style/style.css" type="text/css" rel="stylesheet">  
+        <script src="../conditionizr-4.4.0/conditionizr-4.4.0/dist/conditionizr.js"></script>
+        <script src="../conditionizr-4.4.0/conditionizr-4.4.0/detects/edge.js"></script>
+        <script>
+            conditionizr.load("../MathPoly.js",["edge"]);
+            conditionizr.load("../MathPoly.css",["edge"]);
+         </script>
+
+    </head>
+    
+    <body>
+        <div class="triangle-container">
+            <svg height="420" width="500">
+                  <polygon points="250,60 100,400 250,400 250,60" class="triangle" />
+                  <text x="156" y="230" fill="black">c</text>
+                  <text x="170" y="420" fill="black">a</text>
+                  <text x="260" y="230" fill="black">b</text>
+                  Sorry, your browser does not support inline SVG.
+            </svg>
+            <div class="text-theorm">according to pythagoras theorem
+                <br><br>
+                <div class="math-equ">
+                    <math>
+                        <mi>c</mi>
+                        <mo>=</mo>
+                        <msqrt>
+                            <msup>
+                                <mi>a</mi>
+                                <mn>2</mn> 
+                            </msup>
+                            <mo>+</mo>
+                            <msup>
+                                <mi>b</mi>
+                                <mn>2</mn>
+                            </msup>
+                        </msqrt>
+                    </math>  
+                </div>
+            </div>
+        </div>
+   
+    </body>
+</html>

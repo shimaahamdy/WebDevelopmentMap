@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\bin\Debug\net6.0\ref\BusinessLogicLayer.dll
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+E:\software engineering\ITI\tasks\18_EF\day2\lab\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb

@@ -1,0 +1,17 @@
+/* p::before{ */
+    /* content: 'Hiii ';
+    color: blue; */
+/* 
+    content: url(../Images/6.jpg);
+    width: 100%;
+    height: auto;
+}
+
+p{
+    background-color: azure;
+}
+
+p::after{
+    content: 'End';
+    color: red;
+} */

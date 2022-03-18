@@ -1,0 +1,26 @@
+#div1{
+    margin-left: 300px;
+    margin-top: 200px;
+    width: 700px;
+    height: 700px;
+    }
+#hover-text
+{
+    width: 400px;
+    height: 50px;
+    border: 2px solid blue ;
+    border-radius: 50px;
+    background-color:rgb(19, 95, 209);
+    text-align: center;
+    margin: 5px;
+    font-size: 30px;
+    transition:  background-color 3s;
+}
+#hover-text:hover
+{
+    background-color:rgb(243, 144, 218);
+    font-size: 30px; 
+    box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    transition:  background-color 3s;
+}
+

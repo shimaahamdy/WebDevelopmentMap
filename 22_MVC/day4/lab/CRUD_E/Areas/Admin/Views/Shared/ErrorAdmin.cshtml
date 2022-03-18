@@ -1,0 +1,12 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+@{
+    ViewBag.Title = "ErrorAdmin";
+}
+
+<h2>Error in Admin Area</h2>
+
+
+<h2>  @Model.Exception.Message </h2>
+
+<h3>   Controller: @Model.ControllerName  *** Action: @Model.ActionName </h3>
+

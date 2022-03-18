@@ -1,0 +1,91 @@
+<html>
+    <head>
+        <title>register</title>
+        <link href="../CSS/style.css" rel="stylesheet" type="text/css">
+        
+    </head>
+    <body>
+        <form action="fun.html">
+            <table cellspacing="11px" >
+                <tr>
+                    <td> First Name</td>
+                    <td><input type="text" class="name" name="firstname"></td>
+                </tr>
+                <tr>
+                    <td class="label"> Last Name</td>
+                    <td><input type="text" class="name" name="lastname"></td>
+                </tr>
+                <tr>
+                    <td> Password</td>
+                    <td><input type="password" class="name" name="password"></td>
+                </tr>
+                <tr>
+                    <td rowspan="2"><div class="centerdiv"><b>Gender</b></span></td>
+                    <td><input type="radio" name="gender" value="Male">Male</td>
+                </tr>
+                <tr>
+                    <td><input type="radio" name="gender" value="Female">Female</td>
+                    
+                </tr>
+                <tr>
+                    <td>
+                        Birhday: 
+                        <select name="bmonth" multiple size="1">    
+                        <optgroup label="[select a month]">
+                            <option value="1">1</option>    
+                            <option value="2">2</option>    
+                            <option value="3">3</option>    
+                        </optgroup>
+                    </select>
+                    </td>
+                    <td> 
+                        <input type="text" value="dd" class="smallfield" name="bday">
+                        <input type="text" value="yyyy" class="smallfield" name="byear">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2"><div class="centerdiv" id="fontincrese"><b><u>Interests</u></b></div></td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="sport" value="sports">
+                        <label for="sport">Sports</label>
+                    </td>
+                    <td>
+                        <input type="checkbox" name="music" value="Music">
+                        <label for="music">Music</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="book" value="book">
+                        <label for="book">Books</label>
+                    </td>
+                    <td>
+                        <input type="checkbox" name="comp" value="computer">
+                        <label for="comp">Computer Stuff</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="fashion" value="fashion">
+                        <label for="fashion">Fashion</label>
+                    </td>
+                    <td>
+                        <input type="checkbox" name="moive" value="moive">
+                        <label for="moive">Moive</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <div class="centerdiv">
+                        <input type="submit" value="submit">
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </form>
+
+        
+    </body>
+</html>

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639235910 source:c:\users\hp\desktop\lab\practice_exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1639936898 source:c:\users\hp\desktop\practice_exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

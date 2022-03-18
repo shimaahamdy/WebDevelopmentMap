@@ -1,0 +1,17 @@
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.frmDrgDrop.resources
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.csproj.GenerateResource.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\bin\Debug\net6.0-windows\DragDrop.exe
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\bin\Debug\net6.0-windows\DragDrop.deps.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\bin\Debug\net6.0-windows\DragDrop.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\bin\Debug\net6.0-windows\DragDrop.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\bin\Debug\net6.0-windows\ref\DragDrop.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\bin\Debug\net6.0-windows\DragDrop.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\ref\DragDrop.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\DragDrop\obj\Debug\net6.0-windows\DragDrop.genruntimeconfig.cache

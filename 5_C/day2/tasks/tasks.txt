@@ -1,0 +1,19 @@
+1-C Program to display "MagicBox"
+2-C Program to display simple menu. (menu)
+3-C Program to print total of numbers when it gets to 100. (sum)
+
+
+
+////////////////////////////////////////
+
+
+#include<windows.h>
+
+COORD coord={0,0};                   // this is global variable
+                                    //center of axis is set to the top left cornor of the screen
+ void gotoxy(int x,int y)
+ {
+   coord.X=x;
+   coord.Y=y;
+   SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),coord);
+ }

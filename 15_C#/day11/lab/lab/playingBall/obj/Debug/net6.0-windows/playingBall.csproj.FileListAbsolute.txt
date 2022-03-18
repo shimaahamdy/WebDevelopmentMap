@@ -1,0 +1,17 @@
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\bin\Debug\net6.0-windows\playingBall.exe
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\bin\Debug\net6.0-windows\playingBall.deps.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\bin\Debug\net6.0-windows\playingBall.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\bin\Debug\net6.0-windows\playingBall.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\bin\Debug\net6.0-windows\ref\playingBall.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\bin\Debug\net6.0-windows\playingBall.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.Form1.resources
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.csproj.GenerateResource.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\ref\playingBall.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\playingBall\obj\Debug\net6.0-windows\playingBall.genruntimeconfig.cache

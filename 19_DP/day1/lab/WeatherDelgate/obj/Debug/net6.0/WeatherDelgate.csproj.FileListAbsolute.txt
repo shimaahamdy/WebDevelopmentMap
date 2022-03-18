@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\bin\Debug\net6.0\WeatherDelgate.exe
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\bin\Debug\net6.0\WeatherDelgate.deps.json
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\bin\Debug\net6.0\WeatherDelgate.runtimeconfig.json
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\bin\Debug\net6.0\WeatherDelgate.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\bin\Debug\net6.0\ref\WeatherDelgate.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\bin\Debug\net6.0\WeatherDelgate.pdb
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\ref\WeatherDelgate.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.pdb
+E:\software engineering\ITI\tasks\19_DP\day1\lab\WeatherDelgate\obj\Debug\net6.0\WeatherDelgate.genruntimeconfig.cache

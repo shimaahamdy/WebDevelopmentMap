@@ -1,0 +1,24 @@
+﻿@using FirstMVC_WebApp_42.Models;
+
+@{ 
+    var employees = (List<Employee>) ViewBag.emps;
+}
+<h2>getAll</h2>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th></th>
+    </tr>
+    @foreach (var item in employees)
+    {
+        <tr>
+            <td>  @item.ID </td>
+            <td>  @item.Name </td>
+            <td> <a href="/Employee/Details/?@item.ID"> Select </a></td>
+            <td> <a href="/Employee/Edit/@item.ID"> Edit </a></td>
+        </tr>
+    }
+</table>
+

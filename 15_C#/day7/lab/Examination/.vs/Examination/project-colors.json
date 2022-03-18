@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "edb651ed-c5f2-4d6e-916b-dc451c76a584": {
+      "ProjectGuid": "edb651ed-c5f2-4d6e-916b-dc451c76a584",
+      "DisplayName": "Examination",
+      "ColorIndex": 0
+    },
+    "0e976cc6-2784-4575-b78e-d0b6ee966129": {
+      "ProjectGuid": "0e976cc6-2784-4575-b78e-d0b6ee966129",
+      "DisplayName": "Questions",
+      "ColorIndex": 1
+    },
+    "b58adf66-195a-4382-9b82-d10909a44851": {
+      "ProjectGuid": "b58adf66-195a-4382-9b82-d10909a44851",
+      "DisplayName": "answers",
+      "ColorIndex": 2
+    },
+    "1bce15ca-49c2-424b-b1eb-7899267152f5": {
+      "ProjectGuid": "1bce15ca-49c2-424b-b1eb-7899267152f5",
+      "DisplayName": "Exams",
+      "ColorIndex": 3
+    },
+    "31aeaceb-5e18-47b7-a28d-917b48addef4": {
+      "ProjectGuid": "31aeaceb-5e18-47b7-a28d-917b48addef4",
+      "DisplayName": "subjects",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

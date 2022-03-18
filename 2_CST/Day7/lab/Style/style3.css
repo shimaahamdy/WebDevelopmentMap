@@ -1,0 +1,26 @@
+#gameborder
+{
+    width: 900px;
+    height: 500px;
+    border: 1px solid brown;
+}
+
+#player1
+{
+    position: relative;
+    top: 200px;
+}
+
+#player2
+{
+    position: relative;
+    top: 200px;
+    left: 800px;
+}
+
+#player3
+{
+    position: relative;
+    top: 448px;
+    left: 330px;
+}

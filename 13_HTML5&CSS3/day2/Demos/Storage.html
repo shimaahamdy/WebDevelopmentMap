@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Untitled Document</title>
+        
+    </head>
+    
+    <body>
+          <script src="localStorage.js"></script>
+          <script src="geo.js"></script>
+          
+           <input type="text" id="txt1" placeholder="enter your name">
+           <input type="text" id="txt2" placeholder="enter your dept">
+            <input type="button" id="btn1" value="save">
+            <script>
+                document.getElementById("btn1").addEventListener("click",function(){
+                    var usrname= document.getElementById("txt1").value;
+                    var usrdept= document.getElementById("txt2").value;
+                    var usr={nm:usrname,dept:usrdept}
+                    
+                    window.localStorage.setItem("user_name",usrname)
+                    localStorage.setItem("user_dept",usrdept)
+                    localStorage.setItem("userInfo",JSON.stringify(usr))
+                    
+                });
+        
+        </script>
+             
+    </body>
+</html>

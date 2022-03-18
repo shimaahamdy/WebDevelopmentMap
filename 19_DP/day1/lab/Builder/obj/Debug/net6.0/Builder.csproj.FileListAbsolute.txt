@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\bin\Debug\net6.0\Builder.exe
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\bin\Debug\net6.0\Builder.deps.json
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\bin\Debug\net6.0\Builder.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\bin\Debug\net6.0\ref\Builder.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\bin\Debug\net6.0\Builder.pdb
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\ref\Builder.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.pdb
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\bin\Debug\net6.0\Decorator.exe
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\bin\Debug\net6.0\Decorator.deps.json
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\bin\Debug\net6.0\Decorator.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\bin\Debug\net6.0\ref\Decorator.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\bin\Debug\net6.0\Decorator.pdb
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\ref\Decorator.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.pdb
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache

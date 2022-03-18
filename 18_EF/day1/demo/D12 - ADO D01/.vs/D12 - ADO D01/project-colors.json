@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39d2e179-0675-43b4-8f15-e17f75bb5a9e": {
+      "ProjectGuid": "39d2e179-0675-43b4-8f15-e17f75bb5a9e",
+      "DisplayName": "D12 - ADO D01",
+      "ColorIndex": 0
+    },
+    "4c92afa1-5e36-48fc-94c6-76bbb635960b": {
+      "ProjectGuid": "4c92afa1-5e36-48fc-94c6-76bbb635960b",
+      "DisplayName": "ADOConsole",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

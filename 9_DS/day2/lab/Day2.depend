@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1640140614 source:f:\learning\software engineering\iti\9months\9_ds\day2\lab\main.cpp
+	<iostream>
+	"Queue.h"
+	"include\StackLinkedList.h"
+	"include\QueueLinkedList.h"
+	"include\QueueCircular.h"
+
+1640140664 f:\learning\software engineering\iti\9months\9_ds\day2\lab\include\queue.h
+
+1640133477 f:\learning\software engineering\iti\9months\9_ds\day2\lab\include\stacklinkedlist.h
+	"LinkedList.h"
+
+1640133907 f:\learning\software engineering\iti\9months\9_ds\day2\lab\include\linkedlist.h
+	"Node.h"
+	<iostream>
+
+1639996633 f:\learning\software engineering\iti\9months\9_ds\day2\lab\include\node.h
+
+1640133661 f:\learning\software engineering\iti\9months\9_ds\day2\lab\include\queuelinkedlist.h
+	"LinkedList.h"
+
+1640140636 f:\learning\software engineering\iti\9months\9_ds\day2\lab\include\queuecircular.h
+

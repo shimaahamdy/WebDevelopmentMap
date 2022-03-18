@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\bin\Debug\net6.0\Questions.deps.json
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\bin\Debug\net6.0\Questions.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\bin\Debug\net6.0\ref\Questions.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\bin\Debug\net6.0\Questions.pdb
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\bin\Debug\net6.0\answers.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\bin\Debug\net6.0\answers.pdb
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.csproj.CopyComplete
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\ref\Questions.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\Questions\obj\Debug\net6.0\Questions.pdb

@@ -1,0 +1,17 @@
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\bin\Debug\net6.0-windows\mickymouse.exe
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\bin\Debug\net6.0-windows\mickymouse.deps.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\bin\Debug\net6.0-windows\mickymouse.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\bin\Debug\net6.0-windows\mickymouse.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\bin\Debug\net6.0-windows\ref\mickymouse.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\bin\Debug\net6.0-windows\mickymouse.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.Form1.resources
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.csproj.GenerateResource.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\ref\mickymouse.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\mickymouse\obj\Debug\net6.0-windows\mickymouse.genruntimeconfig.cache

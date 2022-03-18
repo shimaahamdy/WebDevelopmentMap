@@ -1,0 +1,17 @@
+D:\ITI\Smart\WPF\Day01\Day1\Day1\bin\Debug\Day1.exe.config
+D:\ITI\Smart\WPF\Day01\Day1\Day1\bin\Debug\Day1.exe
+D:\ITI\Smart\WPF\Day01\Day1\Day1\bin\Debug\Day1.pdb
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1.csproj.AssemblyReference.cache
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\MainWindow.g.cs
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\App.g.cs
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1_MarkupCompile.cache
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1_MarkupCompile.lref
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\MainWindow.baml
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1.g.resources
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1.Properties.Resources.resources
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1.csproj.GenerateResource.cache
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1.exe
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Day1.pdb
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Paint.g.cs
+D:\ITI\Smart\WPF\Day01\Day1\Day1\obj\Debug\Paint.baml

@@ -1,0 +1,14 @@
+.dd{
+    width: 50%;
+    text-align: center;
+    border: 1px solid red;
+    margin: 10px auto;
+}
+
+div{
+    border: 1px solid red;
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,95 @@
+﻿@*@{ Layout = null; }*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    @{ var name = "Basma"; }
+
+    @{ string txt = "";
+
+        if (DateTime.Now.Hour < 12)
+        {
+            txt = "Good Morning";
+        }
+        else
+        {
+            txt = "Good Evinig";
+        }
+   }
+</head>
+<body>
+
+    <div> Hello ya @name   </div>
+    <div>  Have a Great @txt </div>
+
+    @*<form  method="get">
+            <input type="text" name="name" value="" />
+            <input type="text" name="city" value="" />
+            <input type="submit"  value="Submit" />
+        </form>
+
+        <div>
+            @if (!Request.QueryString["name"].IsEmpty() && !Request.QueryString["city"].IsEmpty())
+            {
+            <p>
+                Hello in My Program @Request.QueryString["name"], From @Request.QueryString["city"]
+            </p>
+            }
+        </div>*@
+
+    <form method="post">
+        <input type="text" name="name" value="" />
+        <input type="text" name="city" value="" />
+        <input type="submit" value="Submit" />
+    </form>
+
+    <form method="post">
+        <input type="text" name="name" value="" />
+        <input type="text" name="city" value="" />
+        <input type="text" name="test" value="" />
+        <input type="submit" value="Go" />
+    </form>
+
+    <div>
+    @*@if (!Request.Form["name"].IsEmpty() && !Request.Form["city"].IsEmpty())*@
+
+    @if (IsPost) //true: if it is not the first time to visit this page, we submitting data
+        {
+            <p>
+                Hello in My Program @Request.Form["name"], From @Request.Form["city"]
+            </p>
+        }
+    </div>
+
+    @*<div>
+        @if (IsPost)
+        {
+        if (!Request["name"].IsEmpty() && !Request["city"].IsEmpty())
+        {
+                <p>
+                    Hello in My Program @Request["name"], From @Request["city"]
+                </p>
+            }
+        }
+</div>*@
+
+
+ @section mySection
+    {
+
+     <div>
+          <ol>
+              <li> List-Item </li>
+              <li> List-Item </li>
+              <li> List-Item </li>
+              <li> List-Item </li>
+              <li> List-Item </li>
+              <li> List-Item </li>
+          </ol>
+     </div>
+
+     }
+
+</body>
+</html>

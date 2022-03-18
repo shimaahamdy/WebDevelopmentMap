@@ -1,0 +1,51 @@
+#header
+{
+    font-size: 20px;
+    width: fit-content;
+    
+    
+}
+input
+{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+
+}
+  
+input[type=submit] 
+{
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+
+}
+  
+input[type=submit]:hover 
+{
+    background-color: #45a049;
+}
+  
+.container
+{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: fit-content;
+    border: 1px solid black;
+
+    
+}
+
+#name:valid, #email:valid 
+{
+    border: 2px solid rgb(28, 228, 28);
+}
+
+#name:invalid, #email:invalid 
+{
+    border: 2px solid red;
+}

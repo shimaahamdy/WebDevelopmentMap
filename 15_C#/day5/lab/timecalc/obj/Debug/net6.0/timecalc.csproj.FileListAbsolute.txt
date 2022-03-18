@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\bin\Debug\net6.0\timecalc.exe
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\bin\Debug\net6.0\timecalc.deps.json
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\bin\Debug\net6.0\timecalc.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\bin\Debug\net6.0\timecalc.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\bin\Debug\net6.0\ref\timecalc.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\bin\Debug\net6.0\timecalc.pdb
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\ref\timecalc.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.pdb
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.genruntimeconfig.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\timecalc\obj\Debug\net6.0\timecalc.csproj.AssemblyReference.cache

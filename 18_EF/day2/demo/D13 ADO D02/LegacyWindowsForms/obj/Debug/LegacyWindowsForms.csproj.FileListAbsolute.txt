@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\bin\Debug\LegacyWindowsForms.exe.config
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\bin\Debug\LegacyWindowsForms.exe
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\bin\Debug\LegacyWindowsForms.pdb
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.Form1.resources
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.Properties.Resources.resources
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.exe
+C:\Users\pc\Desktop\SD 42 C#\D13 ADO D02\LegacyWindowsForms\obj\Debug\LegacyWindowsForms.pdb

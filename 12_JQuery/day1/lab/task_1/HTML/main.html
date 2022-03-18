@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>task1</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <link href="../Style/style.css" type="text/css" rel="stylesheet">
+    <script src="script.js"></script>
+    <script>
+$(document).ready(function(){
+
+    $('#gall,#comp,#send,ul li').hide();
+     //button pressed
+    $('#b1').click(function()
+    {
+        $('#gall,#comp,#send,ul li').hide();
+        $('#about').show();
+        
+    })
+    $('#b2').click(function()
+    {
+        $('#about,#comp,#send,ul li').hide();
+        $('#gall').show();
+       
+    })
+    //services
+    $("#b3").click(function () 
+    {
+        $('#about,#gall,#send,#comp').hide();
+        $("ul li").slideToggle(500);
+        
+    })
+ 
+    $('#b4').click(function()
+    {
+        $('#about,#gall,#send,ul li').hide();
+        $('#comp').show();
+    })
+   
+
+    var curr_img_num=1;
+    //right pressed
+    $('#rightArrow').click(function()
+    {
+        if(curr_img_num<8)
+        {
+            ++curr_img_num;
+            var source = "../Images/"+curr_img_num+".jpg";
+            $('#imgShow').attr('src',source)
+        }
+        
+    });
+    //left pressed
+    $('#leftArrow').click(function()
+    {
+        if(curr_img_num>1)
+        {
+            --curr_img_num;
+            var source = "../Images/"+curr_img_num+".jpg";
+            $('#imgShow').attr('src',source)
+        }
+        
+    })
+    //send pressed
+    $("#sendButton").click(function () 
+    {
+        $("#comp").hide();
+
+        $("#complainedTxt").html('Your Complain is ' + $("#compl").val());
+        $("#emailTxt").html('Your Name is ' + $("#name").val());
+        $("#phoneTxt").html('Your Email is '+ $("#email").val());
+        $("#nameTxt").html('Your Phone is ' + $("#phone").val());
+                
+                
+        $("#send").show();
+
+    })
+            
+    $("#editButton").click(function () 
+    {
+        $("#send").hide();
+        $("#comp").show();
+
+    })
+
+
+ 
+     });
+    </script>
+</head>
+
+<body>
+    <div id="main">
+        <div id="divButtons">
+            <input type="button" class="mainButtons" value="About" id="b1">
+            <input type="button" class="mainButtons" value="Gallery" id="b2">
+            <input type="button" class="mainButtons" value="Sevices" id="b3">
+            <input type="button" class="mainButtons" value="Complain" id="b4">
+            
+            <ul>
+                <li class="item">Item #1</li>
+                <li class="item">Item #2</li>
+                <li class="item">Item #3</li>
+            </ul>
+        </div>
+        <div id="about" class="divShow">
+            <p>
+                Story about snow man
+            </p>
+        </div>
+        <div id="gall" class="divShow">
+            <img src="../Images/left.png" id="leftArrow">
+            <img src="../Images/1.jpg" id="imgShow">
+            <img src="../Images/right.png" id="rightArrow">
+        </div>
+    
+       
+        <div id="comp" class="divShow">
+            <label for="name">Name:</label>
+            <input id="name" type="text"> <br> <br>
+        
+            <label for="email">Email:</label>
+            <input id="email" type="text"> <br><br>
+        
+            <label for="phone">Phone:</label>
+            <input id="phone" type="number"> <br><br>
+        
+            <label for="compl">Complain:</label><br>
+            <textarea id="compl" cols="30" rows="10"></textarea><br>
+        
+            <button id="sendButton">Send</button>
+        </div>
+        <div id="send" class="divShow">
+            <p id="complainedTxt">Your Complain is </p>
+            <p id="nameTxt">Your Name is </p>
+            <p id="emailTxt">Your Email is </p>
+            <p id="phoneTxt">Your Phone is </p>
+                
+            <button id="editButton">edit</button>
+        
+        </div>
+  
+
+    </div>    
+
+     
+</body>
+
+</html>

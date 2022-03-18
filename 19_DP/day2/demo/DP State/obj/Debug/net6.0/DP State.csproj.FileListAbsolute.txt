@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\bin\Debug\net6.0\DP State.exe
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\bin\Debug\net6.0\DP State.deps.json
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\bin\Debug\net6.0\DP State.runtimeconfig.json
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\bin\Debug\net6.0\DP State.dll
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\bin\Debug\net6.0\DP State.pdb
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.AssemblyInfo.cs
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.dll
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\refint\DP State.dll
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.pdb
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\DP State.genruntimeconfig.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP State\obj\Debug\net6.0\ref\DP State.dll

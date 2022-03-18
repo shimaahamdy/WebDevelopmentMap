@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+
+	<!--<xs:element name="person">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="firstname" type="xs:string"></xs:element>
+				<xs:element name="lastname" type="xs:string"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>-->
+	
+	<!--<xs:element name="son">
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute name="age" type="xs:integer" use="optional"></xs:attribute>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>-->
+	
+	<!--<xs:element name="Manager">
+		<xs:complexType mixed="true">
+			<xs:all>
+				<xs:element name="name" type="xs:string"></xs:element>
+				<xs:element name="age" type="xs:integer"></xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>-->
+	
+	<xs:element name="father">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="mother" type="xs:string" default="hoda"></xs:element>
+				<xs:element name="daughter" type="xs:string" minOccurs="0"
+				maxOccurs="3"></xs:element>
+				<xs:element name="son" type="xs:string"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="job" type="xs:string"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	
+	<!--<xs:element name="internationalPrice">
+		<xs:complexType>
+			<xs:complexContent>
+				<xs:restriction base="xs:anyType">
+					<xs:attribute name="currency" type="xs:string"></xs:attribute>
+				</xs:restriction>
+			</xs:complexContent>
+		</xs:complexType>
+	</xs:element>-->
+	
+</xs:schema>

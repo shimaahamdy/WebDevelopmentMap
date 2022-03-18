@@ -1,0 +1,32 @@
+﻿@{ Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    @{
+        WelcomePage.person p = new WelcomePage.person(1, "nour", 22, 'F', "Egypt");
+        WelcomePage.person p1 = new WelcomePage.person(2, "Hon", 63, 'M', "Japan");
+        WelcomePage.person p2 = new WelcomePage.person(3, "John", 15, 'M', "England");
+        WelcomePage.person p3 = new WelcomePage.person(4, "Rag", 30, 'M', "India");
+        WelcomePage.person p4 = new WelcomePage.person(5, "Rafet", 25, 'M', "Egypt");
+
+        List<WelcomePage.person> personsList = new List<WelcomePage.person>();
+        personsList.Add(p);
+        personsList.Add(p1);
+        personsList.Add(p2);
+        personsList.Add(p3);
+        personsList.Add(p4);
+    }
+
+    @{ var grid = new WebGrid(personsList); }
+
+    @grid.GetHtml();
+   
+
+
+</body>
+</html>

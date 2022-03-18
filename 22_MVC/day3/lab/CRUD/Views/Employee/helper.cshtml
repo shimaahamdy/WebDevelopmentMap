@@ -1,0 +1,22 @@
+﻿@model List<CRUD.Models.Emp>
+
+@{
+    ViewBag.Title = "helper";
+}
+
+@helper listnames(List<CRUD.Models.Emp> emps)
+    {
+    <ol>
+        @foreach(var item in emps)
+    {
+        <li>@item.EmpFname @item.EmpLname</li>
+    }
+    </ol>
+    }
+
+<h2>helper</h2>
+
+
+<div>
+    Employees names:@listnames(Model)
+</div>

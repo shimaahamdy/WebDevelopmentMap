@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\bin\Debug\net6.0\D03.exe
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\bin\Debug\net6.0\D03.deps.json
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\bin\Debug\net6.0\D03.runtimeconfig.json
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\bin\Debug\net6.0\D03.dll
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\bin\Debug\net6.0\ref\D03.dll
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\bin\Debug\net6.0\D03.pdb
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.AssemblyInfo.cs
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.dll
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\ref\D03.dll
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.pdb
+C:\Users\pc\Desktop\SD 42 C#\D03\D03\obj\Debug\net6.0\D03.genruntimeconfig.cache

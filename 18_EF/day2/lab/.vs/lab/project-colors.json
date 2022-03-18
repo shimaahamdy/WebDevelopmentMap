@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6ad2f1e-19c0-4491-8cee-7d8c5f5cbf59": {
+      "ProjectGuid": "f6ad2f1e-19c0-4491-8cee-7d8c5f5cbf59",
+      "DisplayName": "LegacyGridView",
+      "ColorIndex": 0
+    },
+    "1d83072d-165e-4883-b9d6-06c52f4e56bb": {
+      "ProjectGuid": "1d83072d-165e-4883-b9d6-06c52f4e56bb",
+      "DisplayName": "BusinessLogicLayer",
+      "ColorIndex": 1
+    },
+    "228d7222-c6e5-48f5-a661-a8c6295bcec2": {
+      "ProjectGuid": "228d7222-c6e5-48f5-a661-a8c6295bcec2",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "007fa410-f5b5-434b-85c7-dc195732666c": {
+      "ProjectGuid": "007fa410-f5b5-434b-85c7-dc195732666c",
+      "DisplayName": "LegacyDetailedView",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\bin\Debug\net6.0\math.exe
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\bin\Debug\net6.0\math.deps.json
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\bin\Debug\net6.0\math.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\bin\Debug\net6.0\math.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\bin\Debug\net6.0\ref\math.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\bin\Debug\net6.0\math.pdb
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\ref\math.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.pdb
+E:\software engineering\ITI\tasks\15_C#\day5\lab\math\obj\Debug\net6.0\math.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Untitled Document</title>
+        
+    </head>
+    
+    <body>
+           <script>
+               
+              /* navigator={
+                   geolocation:{
+                       getCurrentPosition:function(x,y,z){
+                           //
+                           //z
+                           var pos={
+                               coords:{
+                                   log:,
+                                   
+                               }
+                           }
+                           if(success)
+                               x(pos);
+                           if (failure)
+                               y();
+                           
+                       }
+                   }
+               }
+               */
+        navigator.geolocation.getCurrentPosition(function(pos){
+            console.log(pos.coords);
+            
+        },function(err){
+             console.log(err.code);//0 1 2 3
+                   console.log(err.message);
+        },{timeout:0});
+               
+               function successFun(pos){
+                   console.log(pos.coords)
+                   
+               }
+               function errorFun(err){
+                  
+               }
+               
+               
+               
+               
+               
+               
+               
+        </script>
+            
+    </body>
+</html>

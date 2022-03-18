@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE beatles[
+<!ELEMENT beatles (beatle)* >
+<!ELEMENT beatle (name)>
+<!ELEMENT name (#PCDATA | firstname | lastname)*>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+
+<!ATTLIST beatle
+      link CDATA #REQUIRED
+      real CDATA #FIXED "on"
+      sport (football | tennis) "football"
+>
+
+<!ENTITY xml "Extensible Markup Language">
+]>-->
+<!DOCTYPE beatles SYSTEM "Document3">
+<beatles>
+	<beatle link="http://www.paulmccartney.com">
+		<name>ahmed
+		<firstname> </firstname>
+		<lastname></lastname>
+		</name>
+	</beatle>
+	<beatle link="http://www.johnlennon.com">
+		<name>
+			<firstname>John</firstname>
+			<lastname>Lennon</lastname>
+		</name>
+	</beatle>
+	<beatle link="http://www.georgeharrison.com">
+		<name>
+			<firstname>George</firstname>
+			<lastname>Harrison</lastname>
+		</name>
+	</beatle>
+	<beatle link="http://www.ringostarr.com" sport="football">
+		<name>
+			<firstname>Ringo</firstname>
+			<lastname>Starr</lastname>
+		</name>
+	</beatle>
+	<beatle link="http://www.webucator.com" >
+		<name>
+			<firstname>Nat</firstname>
+			<lastname>Dunn</lastname>
+		</name>
+	</beatle>
+</beatles>

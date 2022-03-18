@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exams/1.0.0": {
+        "dependencies": {
+          "Questions": "1.0.0",
+          "subjects": "1.0.0"
+        },
+        "runtime": {
+          "Exams.dll": {}
+        }
+      },
+      "answers/1.0.0": {
+        "runtime": {
+          "answers.dll": {}
+        }
+      },
+      "Questions/1.0.0": {
+        "dependencies": {
+          "answers": "1.0.0"
+        },
+        "runtime": {
+          "Questions.dll": {}
+        }
+      },
+      "subjects/1.0.0": {
+        "runtime": {
+          "subjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "answers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Questions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "subjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

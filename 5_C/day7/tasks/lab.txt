@@ -1,0 +1,4 @@
+employee with menue but dinamic 
+enter size of array then take elements in array and sum
+inline editior dinamic
+array of pointer enter numer of students then size of letters

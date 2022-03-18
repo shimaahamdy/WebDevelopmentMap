@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT ITI (ITI-manager, ITI.vice-manager, copyrightsign)>
+<!ELEMENT ITI-manager (#PCDATA)>
+<!ELEMENT ITI.vice-manager (#PCDATA | ITI.ScientificDept | ITI.SpecializedTracks)*>
+<!ELEMENT ITI.ScientificDept (#PCDATA | platform)*>
+<!ELEMENT platform (#PCDATA)>
+<!ELEMENT ITI.SpecializedTracks (ProgramManager?, Track+)>
+<!ELEMENT ProgramManager (#PCDATA)>
+<!ELEMENT Track (#PCDATA)>
+<!ELEMENT copyrightsign (#PCDATA)>
+<!ATTLIST ITI.ScientificDept
+	mgr CDATA #REQUIRED
+>
+<!ATTLIST platform
+	mgr CDATA #IMPLIED
+>
+<!ATTLIST ITI.SpecializedTracks
+	name CDATA #FIXED "Specialized Tracks"
+>
+<!ATTLIST Track
+	mgr CDATA #IMPLIED
+>
+<!ENTITY copyright "&#xA9;">
+<!ENTITY xml "Extensible Markup Langauage">

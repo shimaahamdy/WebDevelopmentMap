@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639312403 source:c:\users\hp\desktop\lab\task_1\main.cpp
+	<iostream>
+	<stdio.h>
+	<C:\Program Files\CodeBlocks\MinGW\include\graphics.h>
+

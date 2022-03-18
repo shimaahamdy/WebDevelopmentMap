@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:element name="purchaseOrder" type="purchaseOrdertype"></xs:element>
+
+<xs:complexType name="purchaseOrdertype">
+<xs:sequence>
+<xs:element name="shipTo" type="sendtype"></xs:element>
+<xs:element name="billTo" type="sendtype"></xs:element>
+<xs:element name="comment" type="xs:string" maxOccurs="unbounded"/>
+<xs:element name="items" type="itemstype"></xs:element>
+</xs:sequence>
+<xs:attribute name="orderDate" type="xs:date" use="required" />
+</xs:complexType>
+
+<xs:complexType name="sendtype">
+<xs:sequence>
+<xs:element name="name" type="xs:string"/>
+<xs:element name="street" type="xs:string"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="state" type="xs:string"/>
+<xs:element name="zip" type="xs:unsignedInt"/>
+</xs:sequence>
+<xs:attribute name="country" type="xs:string" use="required" />
+</xs:complexType>
+
+<xs:complexType name="itemstype">
+<xs:sequence>
+<xs:element name="item" type="itemtype" minOccurs="1" maxOccurs="unbounded"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+
+
+<xs:complexType name="itemtype">
+<xs:sequence>
+<xs:element name="productName" type="xs:string" />
+<xs:element name="quantity" type="xs:unsignedByte" />
+<xs:element name="USPrice" type="xs:decimal" />
+<xs:element name="shipDate" type="xs:date" minOccurs="0" />
+<xs:element name="comment" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+<xs:attribute name="partNum" type="xs:string" use="required" />
+</xs:complexType>
+
+
+</xs:schema>

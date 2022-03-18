@@ -1,0 +1,12 @@
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\bin\Debug\net6.0\subjects.deps.json
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\bin\Debug\net6.0\subjects.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\bin\Debug\net6.0\ref\subjects.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\bin\Debug\net6.0\subjects.pdb
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\subjects.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\subjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\subjects.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\subjects.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\subjects.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\subjects.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\ref\subjects.dll
+E:\software engineering\ITI\tasks\15_C#\day6\lab\Examination\subjects\obj\Debug\net6.0\subjects.pdb

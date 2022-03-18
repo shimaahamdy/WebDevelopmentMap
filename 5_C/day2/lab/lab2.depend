@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638177320 source:f:\learning\software engineering\iti\9months\5_c\day1\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

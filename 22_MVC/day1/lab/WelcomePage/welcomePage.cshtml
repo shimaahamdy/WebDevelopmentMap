@@ -1,0 +1,41 @@
+﻿@{ Layout = null; }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome Page</title>
+</head>
+<body>
+    <form method="post">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname"><br>
+        <label for="birthday">Birthday:</label>
+        <input type="date" name="birthdate"/>
+        <input type="submit" value="Send"/>
+    </form>
+
+    <div>
+        @{
+            if (IsPost)
+            {
+                string[] s = @Request["birthdate"].Split('-');
+                int year = int.Parse(s[0]);
+                int month = int.Parse(s[1]);
+                int day = int.Parse(s[2]);
+
+                
+
+                int dyear = Math.Abs(DateTime.Now.Year - year);
+                int dmonth = Math.Abs(DateTime.Now.Month - month);
+                int dDay = Math.Abs(DateTime.Now.Day - day);
+
+
+                <p>Hello @Request.Form["fname"] @Request.Form["lname"]</p>
+                <p>you age is:   @dyear years, @dmonth months, @dDay days</p>
+            }
+
+        }
+    </div>
+</body>
+</html>

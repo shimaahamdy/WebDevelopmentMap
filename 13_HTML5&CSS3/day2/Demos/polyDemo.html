@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Untitled Document</title>
+        <script src="conditionizr-4.4.0/conditionizr-4.4.0/dist/conditionizr.js"></script>
+        <script src="conditionizr-4.4.0/conditionizr-4.4.0/detects/chrome.js"></script>
+        <script src="conditionizr-4.4.0/conditionizr-4.4.0/detects/firefox.js"></script>
+    </head>
+    
+    <body>
+           <script>
+        
+               conditionizr.add("nojQ",function(){
+                   return !window.jQuery
+               })
+               conditionizr.config({
+                   assets:"/assests/",
+                   tests:{
+                       firefox:['style'],
+                       nojQ:['script'],
+                   }
+               });
+               
+               
+    
+               conditionizr.on("chrome",function(){console.log("chrome browser")})
+        
+               conditionizr.load("localStorage.js",["chrome","firefox","nojQ"]);
+               
+               conditionizr.polyfill("jQuery.js",["nojQ"])
+               
+               
+               
+        
+        </script>
+            <h1>Hello..</h1>
+    </body>
+</html>

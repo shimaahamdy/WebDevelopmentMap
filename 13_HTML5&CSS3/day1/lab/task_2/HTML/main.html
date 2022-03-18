@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>task2</title>
+        <link href="../Style/style.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="buttons-container">
+            <div id="red-button-div">
+            <label id="red-label">Red</label>
+            <input id="red-range" onchange="changeColor()" type="range" min="0" step="1" max="256" value="0">
+            </div>
+            <div id="green-button-div">
+            <label id="green-label">Green</label>
+            <input id="green-range" onchange="changeColor()" type="range" min="0" step="1" max="256" value="0">
+            </div>
+            <div id="blue-button-div">
+            <label id="blue-label">Blue</label>
+            <input id="blue-range" onchange="changeColor()" type="range" min="0" step="1" max="256" value="0">
+            </div>
+            <div id="div-text">
+                Change the 3 color ranges above and observe my color change:)
+            </div>
+        </div>
+        <script src="../Js/script.js"></script>
+    </body>
+</html>

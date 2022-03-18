@@ -1,0 +1,4 @@
+MCQ: choose the correct answer
+0- what is c++
+MCQ: choose the correct answer
+1- what is sql

@@ -1,0 +1,5 @@
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Release\net5.0\ProtablePublish\FirstConsoleCore.exe
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Release\net5.0\ProtablePublish\FirstConsoleCore.dll
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Release\net5.0\ProtablePublish\FirstConsoleCore.deps.json
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Release\net5.0\ProtablePublish\FirstConsoleCore.runtimeconfig.json
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Release\net5.0\ProtablePublish\FirstConsoleCore.pdb

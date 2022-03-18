@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>log in</title>
+        <link href="../CSS/style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <form class="loginform" action="fun.html">
+            <fieldset>
+                <legend>Log In</legend>
+                <div>
+                <label for="name">User Name: </label>
+                <input type="text" value="Enter your User name here!" name="name">
+                </div>
+                <div>
+                    <label for="PassWord">PassWord: </label>
+                    <input type="text" name="PassWord">
+                </div>
+                <div>
+                    <label>Select Your Locatio: </label>
+                    <select name="country" size="1">
+                        <optgroup label="Africa">
+                            <option value="eg">Egypt</option>
+                            <option value="su">Sudan</option>
+                            <option value="na">Namibia</option>
+                        </optgroup>
+                        <optgroup label="Europe">
+                            <option value="fr">France</option>
+                            <option value="ry">Russia</option>
+                            <option value="Uk">UK</option>
+                        </optgroup>
+                        <optgroup label="North America" disabled>
+                            <option value="ca">Canada</option>
+                            <option value="mx">Mexico</option>
+                            <option value="usa">USA</option>
+                        </optgroup>
+                    </select>
+                    <div></div>
+                    <input type="checkbox" name="remeberd" value="1" accesskey="m">
+                    <label for="remeberd">Remember<u>M</u>e</label>
+                    <div>
+                        <input type="submit" value="Log In">
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </body>
+</html>

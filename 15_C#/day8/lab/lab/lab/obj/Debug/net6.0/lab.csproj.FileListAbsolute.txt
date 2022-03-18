@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\bin\Debug\net6.0\lab.exe
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\bin\Debug\net6.0\lab.deps.json
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\bin\Debug\net6.0\lab.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\bin\Debug\net6.0\lab.dll
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\bin\Debug\net6.0\ref\lab.dll
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\bin\Debug\net6.0\lab.pdb
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.dll
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\ref\lab.dll
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.pdb
+E:\software engineering\ITI\tasks\15_C#\day8\lab\lab\lab\obj\Debug\net6.0\lab.genruntimeconfig.cache

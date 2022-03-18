@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOpKPaQRnZv3JNgpvuGIYnO+qwWd+1T2+shM2zl/7JfpeOzlrBQ8pyIFqBzPmHOMYE1ikpdsEQLwjhBkXw6Dnw==",
+  "success": true,
+  "projectFilePath": "E:\\software engineering\\ITI\\materials\\15_C#\\day2\\D02 Solution\\D02 Solution\\D02\\D02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

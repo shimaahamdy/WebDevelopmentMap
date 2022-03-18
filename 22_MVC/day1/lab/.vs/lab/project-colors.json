@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1cdc788-6404-4986-8f47-f16a71abd9f1": {
+      "ProjectGuid": "c1cdc788-6404-4986-8f47-f16a71abd9f1",
+      "DisplayName": "WelcomePage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

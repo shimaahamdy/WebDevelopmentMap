@@ -1,0 +1,67 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "NorthwindContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Model",
+   "OutputPath": "Context",
+   "ProjectRootNamespace": "NorthWindConsole",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Suppliers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sales by Category]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[CustOrderHist]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DiscontinuedProducts]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[TestPrd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateProductNameByProductID]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "DESKTOP-6VB0M49\\MSSQL2019.Northwind",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

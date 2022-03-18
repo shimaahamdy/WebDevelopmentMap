@@ -1,0 +1,22 @@
+.triangle-container{
+    width: 500px;
+    margin: auto;
+    border: 1px solid firebrick;
+}
+    
+.triangle{
+    fill: firebrick;
+    stroke: black;
+    stroke-width: 8;
+}
+.text-theorm
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-left: 6px;
+}
+.math-equ
+{
+    color: firebrick;
+}

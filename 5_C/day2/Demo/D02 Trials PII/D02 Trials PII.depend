@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603186032 source:c:\users\pc\documents\codeblocks\d02 trials pii\main.c
+	<stdio.h>
+	<stdlib.h>
+

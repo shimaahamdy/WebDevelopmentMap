@@ -1,0 +1,18 @@
+﻿@{ Layout = null;}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    @{
+        var myChart = new Chart(width: 600, height: 400)
+            .AddTitle("Persons")
+            .AddSeries(
+                name: "Employe salary to degree",
+                xValue: new[] { 10, 20, 30, 40, 50 },
+                yValues: new[] { 1005, 2000, 3000, 5000, 6000 })
+            .Write();
+    }
+</body>
+</html>

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1638376413 source:f:\learning\software engineering\iti\9months\5_c\day5\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1639000295 source:f:\learning\software engineering\iti\9months\5_c\day7\lab\task_4\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

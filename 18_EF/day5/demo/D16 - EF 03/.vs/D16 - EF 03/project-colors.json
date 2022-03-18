@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2deb2eb-387c-43fa-a3af-7507ae9176a4": {
+      "ProjectGuid": "c2deb2eb-387c-43fa-a3af-7507ae9176a4",
+      "DisplayName": "DiTrials",
+      "ColorIndex": 0
+    },
+    "6f2e856c-c19e-4f74-bce9-b95e5ad90640": {
+      "ProjectGuid": "6f2e856c-c19e-4f74-bce9-b95e5ad90640",
+      "DisplayName": "DapperTrials",
+      "ColorIndex": 1
+    },
+    "2a557279-5dbb-4c8c-ba83-5ab14ee5ffd5": {
+      "ProjectGuid": "2a557279-5dbb-4c8c-ba83-5ab14ee5ffd5",
+      "DisplayName": "NorthWindConsole",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

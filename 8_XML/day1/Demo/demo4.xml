@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booklist title="Some XML Books">
+ <book>
+   <author>
+	<name>St. Laurent</name>
+	<initial>S</initial>
+   </author>
+   <date>1998</date>
+   <title edition="Second">XML: A Primer</title>
+   <publisher>MIS Press</publisher>
+   <website href="http://www.simonstl.com/xmlprim/" />
+   <rating stars="4"/>
+ </book>
+</booklist>

@@ -1,0 +1,294 @@
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.exe
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.deps.json
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.runtimeconfig.json
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\ref\LoginManger.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.pdb
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Humanizer.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.GenerateResource.cache
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CopyComplete
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\ref\LoginManger.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.pdb
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.genruntimeconfig.cache
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\HotelManagemet.Frontend.Login.resources
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Properties.Resources.resources
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.deps.json
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.runtimeconfig.json
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.exe
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.dll
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.pdb
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.site.resources
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Bill.resources
+E:\software engineering\ITI\tasks\18_EF\day4\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.FoodMenue.resources
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.deps.json
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.runtimeconfig.json
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.exe
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.exe
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.deps.json
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.runtimeconfig.json
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\ref\LoginManger.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.pdb
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.pdb
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Bill.resources
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.FoodMenue.resources
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\HotelManagemet.Frontend.Login.resources
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.site.resources
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Properties.Resources.resources
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfo.cs
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CopyComplete
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\ref\LoginManger.dll
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.pdb
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.genruntimeconfig.cache
+C:\Users\HP\Desktop\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Kitchen.resources
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.deps.json
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.runtimeconfig.json
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.exe
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.exe
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.deps.json
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.runtimeconfig.json
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\ref\LoginManger.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.pdb
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Humanizer.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.dll
+E:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.pdb
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.AssemblyReference.cache
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Bill.resources
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.FoodMenue.resources
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Kitchen.resources
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\HotelManagemet.Frontend.Login.resources
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.site.resources
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Properties.Resources.resources
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.GenerateResource.cache
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.GeneratedMSBuildEditorConfig.editorconfig
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfoInputs.cache
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfo.cs
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CoreCompileInputs.cache
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CopyComplete
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.dll
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\ref\LoginManger.dll
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.pdb
+E:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.genruntimeconfig.cache
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.deps.json
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.runtimeconfig.json
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.exe
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.exe
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.deps.json
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.runtimeconfig.json
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\ref\LoginManger.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.pdb
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Humanizer.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.dll
+F:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.pdb
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.AssemblyReference.cache
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Bill.resources
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.FoodMenue.resources
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Kitchen.resources
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\HotelManagemet.Frontend.Login.resources
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.site.resources
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Properties.Resources.resources
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.GenerateResource.cache
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.GeneratedMSBuildEditorConfig.editorconfig
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfoInputs.cache
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfo.cs
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CoreCompileInputs.cache
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CopyComplete
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.dll
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\ref\LoginManger.dll
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.pdb
+F:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.genruntimeconfig.cache
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.deps.json
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.runtimeconfig.json
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.exe
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.exe
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.deps.json
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.runtimeconfig.json
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\ref\LoginManger.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\LoginManger.pdb
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Humanizer.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.dll
+D:\HotelManagemet\LoginManger\bin\Debug\net6.0-windows\HotelManagemet.pdb
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.AssemblyReference.cache
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Bill.resources
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.FoodMenue.resources
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.Kitchen.resources
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\HotelManagemet.Frontend.Login.resources
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Fronend.site.resources
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.Properties.Resources.resources
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.GenerateResource.cache
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.GeneratedMSBuildEditorConfig.editorconfig
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfoInputs.cache
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.AssemblyInfo.cs
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CoreCompileInputs.cache
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.csproj.CopyComplete
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.dll
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\ref\LoginManger.dll
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.pdb
+D:\HotelManagemet\LoginManger\obj\Debug\net6.0-windows\LoginManger.genruntimeconfig.cache

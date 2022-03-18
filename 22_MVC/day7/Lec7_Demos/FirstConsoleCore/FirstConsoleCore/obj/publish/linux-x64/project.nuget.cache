@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3BMniFXycmUyxOlIVZHvZ1H8KcpEL0O37osSon+eOc0yChY5WnHOWbLFQGp6OxXAXN2mpAFefzCJyNHV7k/YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iti\\source\\repos\\FirstConsoleCore\\FirstConsoleCore\\FirstConsoleCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iti\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.14\\microsoft.netcore.app.runtime.linux-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\iti\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\iti\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.14\\microsoft.netcore.app.host.linux-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

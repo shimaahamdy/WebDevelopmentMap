@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<father xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="file:///C:/Users/Arwa/Desktop/XML/CourseContent/Day2%20-XMLSchema/Demos/ComplexType.xsd">
+ <mother>hoda</mother>
+ <daughter></daughter>
+ <daughter></daughter>
+ <daughter></daughter>
+ 
+ <son>String</son>
+ 
+</father>

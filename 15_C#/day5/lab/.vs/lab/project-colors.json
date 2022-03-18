@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9cd9858-0806-4dde-b61f-3f2e94299efb": {
+      "ProjectGuid": "f9cd9858-0806-4dde-b61f-3f2e94299efb",
+      "DisplayName": "main",
+      "ColorIndex": 0
+    },
+    "f0bd6c30-7da3-46c4-9feb-129a365be826": {
+      "ProjectGuid": "f0bd6c30-7da3-46c4-9feb-129a365be826",
+      "DisplayName": "point3D",
+      "ColorIndex": 1
+    },
+    "1f966dc6-4aa2-4d28-8d08-76857a912e3a": {
+      "ProjectGuid": "1f966dc6-4aa2-4d28-8d08-76857a912e3a",
+      "DisplayName": "graphics",
+      "ColorIndex": 2
+    },
+    "7867c5ee-3ef6-4e0e-bc18-9449e17fac24": {
+      "ProjectGuid": "7867c5ee-3ef6-4e0e-bc18-9449e17fac24",
+      "DisplayName": "calculations",
+      "ColorIndex": 3
+    },
+    "f2b880a7-01ab-4ab2-bfb5-c1174b6c61e6": {
+      "ProjectGuid": "f2b880a7-01ab-4ab2-bfb5-c1174b6c61e6",
+      "DisplayName": "math",
+      "ColorIndex": 4
+    },
+    "3de8ff77-6d43-42e6-a344-deac62cca826": {
+      "ProjectGuid": "3de8ff77-6d43-42e6-a344-deac62cca826",
+      "DisplayName": "FTB",
+      "ColorIndex": 5
+    },
+    "4d6988ac-bc0b-45c2-8a47-95d793ccdf27": {
+      "ProjectGuid": "4d6988ac-bc0b-45c2-8a47-95d793ccdf27",
+      "DisplayName": "time",
+      "ColorIndex": 6
+    },
+    "66bef918-55d7-4f45-80e1-4c01797faf34": {
+      "ProjectGuid": "66bef918-55d7-4f45-80e1-4c01797faf34",
+      "DisplayName": "timecalc",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc70803f-fcbb-4a76-b4e4-16f1c03d35a8": {
+      "ProjectGuid": "bc70803f-fcbb-4a76-b4e4-16f1c03d35a8",
+      "DisplayName": "D03 PI",
+      "ColorIndex": 0
+    },
+    "a81bdb8d-0778-4cdf-ae92-2c791dbcdf1f": {
+      "ProjectGuid": "a81bdb8d-0778-4cdf-ae92-2c791dbcdf1f",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

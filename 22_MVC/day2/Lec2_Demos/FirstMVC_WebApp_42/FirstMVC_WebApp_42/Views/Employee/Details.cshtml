@@ -1,0 +1,15 @@
+﻿@using FirstMVC_WebApp_42.Models;
+
+@{ 
+
+    var curEmployee = ViewBag.emp;
+}
+
+<h2>Details</h2>
+
+<div>
+    <h2>  @curEmployee.ID </h2>
+    <h2>  @curEmployee.Name </h2>
+</div>
+
+<a href="/Employee/getAll">Back To List</a>

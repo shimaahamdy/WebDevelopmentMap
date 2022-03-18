@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE father [
+	<!ELEMENT father (#PCDATA | job |age)*>
+	<!ELEMENT job (#PCDATA)>
+	<!ELEMENT age (#PCDATA)>
+	<!ENTITY xml "Extensible Markup Language">
+]>
+<father>Ibrahim
+			<job>engineer &xml;</job>
+			<age>55</age>
+		    </father>
+
+
+

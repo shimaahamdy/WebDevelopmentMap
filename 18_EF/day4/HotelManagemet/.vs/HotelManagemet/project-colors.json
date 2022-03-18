@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56833ce1-2847-4fca-ab10-291a1f07da92": {
+      "ProjectGuid": "56833ce1-2847-4fca-ab10-291a1f07da92",
+      "DisplayName": "HotelManagemet",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "17a32b1f-e7c9-4074-945f-8c58138b4ed9": {
+      "ProjectGuid": "17a32b1f-e7c9-4074-945f-8c58138b4ed9",
+      "DisplayName": "LoginManger",
+      "ColorIndex": 1
+    },
+    "bb7b1851-44ad-497d-a46e-4825265519e3": {
+      "ProjectGuid": "bb7b1851-44ad-497d-a46e-4825265519e3",
+      "DisplayName": "HotelManagement",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

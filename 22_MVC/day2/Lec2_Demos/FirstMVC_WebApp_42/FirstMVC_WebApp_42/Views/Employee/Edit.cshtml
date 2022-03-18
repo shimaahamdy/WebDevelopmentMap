@@ -1,0 +1,12 @@
+﻿@using FirstMVC_WebApp_42.Models;
+@{
+    var editedEmp = (Employee)ViewBag.emp;
+}
+
+<h2>Edit</h2>
+
+<form action="/Employee/Edit" method="post">
+    <input type="text" name="id" value="@editedEmp.ID" />
+    <input type="text" name="name" value="@editedEmp.Name" />
+    <input type="submit"  value="Save" />
+</form>

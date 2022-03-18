@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>task1</title>
+        <link href="../Style/style.css" type="text/css" rel="stylesheet">
+        
+        
+    </head>
+    
+    <body>
+        <div>
+            <br><br><br>
+            <div>
+                <video id="vid1" poster="../Images/bigbuckbunny_0.jpg" src="../Videos/Big Buck Bunny trailer.mp4" width="800"></video>
+                <input id="slider-vid1" onchange="changeSliderPositon()" type="range" min="0" step="1" max="" value="0"> 
+                <span id="current">0:00s</span>
+                <span>/</span>
+                <span id="duration">0:00s</span>
+                <br>
+                <button id="play-paused" onclick="playPause()">Play</button> 
+                <button id="stop-button" onclick="stop()">stop</button> 
+                <button id="start" onclick="start()">&lt&lt</button> 
+                <button id="go-forward" onclick="goForward()">&lt</button> 
+                <button id="go-backward" onclick="goBackward()">&gt</button> 
+                <button id="end" onclick="end()">&gt&gt</button>
+                <label>sound</label>
+                <input id="slider-vid1-sound" onchange="changeSound()" type="range" min="0" step="0.1" max="1" value="0.3">
+                <button id="mute-button" onclick="mute()">mute</button> 
+                <label>speed</label>
+                <input id="slider-vid1-speed" onchange="changeSpeed()" type="range" min="0" step="0.5" max="16" value="1"> 
+            </div>
+           
+        </div>
+        <script src="../Js/script.js"></script>
+    </body>
+</html>

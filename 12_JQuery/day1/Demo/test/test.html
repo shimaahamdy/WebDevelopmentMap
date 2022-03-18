@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            width: 150px;
+            border: 1px solid black;
+        }
+        h1~h2,h1~h3{
+            /*color:blueviolet !important;*/
+        }
+        .myclass{
+            color: red;
+            background-color: yellow;
+        }
+    </style>
+    <script src="jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('h1').css('color','red');
+            console.log($)
+            console.log($('h1'))
+            console.log(document.querySelectorAll('h1'))
+            $('h2').text('update heading')
+            $('div a').css('color','green')
+            //$("h1").get(0).innerHTML
+            $('ul li:eq(2)').css('color','blue')
+            //$('ul li:first').css('color','red')
+            $('ul li:even').css('color','red')
+            $('input[type="text"]').css({'color':'white','background-color':'black'})
+            $('span:contains("A")').css('color','yellow')
+            $('div').filter(function(){
+               console.log($(this).width())               
+                var width=$(this).width();
+                return width>100&& width<200
+            }).css('border-color','red')
+            $('h1').next('h2,h3').css('color','yellow')
+            $('#btn').click(function(){
+                $('div').eq(0).toggleClass('myclass');
+            })
+            $('ul li').each(function(idx,elem){
+                $(this).text(idx)
+            })
+            $('img').attr('src','../images/dd.png')
+
+            $('#btn1').click(function(){
+                $('img').eq(0).fadeIn(1000)
+            })
+            $('#btn2').click(function(){
+                $('img').eq(0).fadeOut(1000)
+            })
+            $('#btn3').click(function(){
+                $('img').eq(0).fadeTo(1000,0.5)
+            })
+        })
+    </script>
+</head>
+<body>
+    <button id="btn1">show</button>
+    <button id="btn2">hide</button>
+    <button id="btn3">fadeTo</button>
+    <img>
+    <input type="button" id="btn" value="Change">
+    <div>Simple text</div>
+    <span>Abc</span>
+    <input type="text">
+    <ul>
+        <li>item#1</li>
+        <li>item#2</li>
+        <li>item#3</li>
+        <li>item#4</li>
+        <li>item#5</li>
+        <li>item#6</li>
+        <li>item#7</li>
+    </ul>
+    <h3>hey</h3>
+    <h1>Heading#1</h1>
+    <h2>Heading#2</h2>
+    <h3>hey</h3>
+    <h1>Heading#1</h1>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis itaque doloremque accusamus maxime ea quos, voluptatum enim, non accusantium dolorem tempora voluptas. Rem, alias adipisci! Et eius ipsum consequuntur expedita.
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt consequuntur repellat impedit officia nulla dolorem numquam inventore maiores fuga, dignissimos temporibus voluptas asperiores ullam itaque nisi iure, architecto expedita? Ratione.
+        <a href="#">google</a>
+    </div>
+</body>
+</html>

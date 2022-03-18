@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b96816d-f959-417d-bb3d-df3c39ae5a84": {
+      "ProjectGuid": "2b96816d-f959-417d-bb3d-df3c39ae5a84",
+      "DisplayName": "Text",
+      "ColorIndex": 0
+    },
+    "905fbd12-c9ee-48b4-b0fc-3b1ea648acf4": {
+      "ProjectGuid": "905fbd12-c9ee-48b4-b0fc-3b1ea648acf4",
+      "DisplayName": "Caluclator",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

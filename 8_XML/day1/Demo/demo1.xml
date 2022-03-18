@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<person>
+	<name>
+		<firstname>Paul</firstname>
+		<lastname>McCartney</lastname>
+	</name>
+	<job>Singer</job>
+	<gender>Male</gender>

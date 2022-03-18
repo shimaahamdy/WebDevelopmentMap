@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b19a64d-6453-4846-8d68-f8ca0460604e": {
+      "ProjectGuid": "8b19a64d-6453-4846-8d68-f8ca0460604e",
+      "DisplayName": "lab",
+      "ColorIndex": 0
+    },
+    "b2d97586-aaf4-409c-9d32-73161908dd83": {
+      "ProjectGuid": "b2d97586-aaf4-409c-9d32-73161908dd83",
+      "DisplayName": "mickymouse",
+      "ColorIndex": 1
+    },
+    "160a9c09-0289-4ddb-a831-e01e455ebcf9": {
+      "ProjectGuid": "160a9c09-0289-4ddb-a831-e01e455ebcf9",
+      "DisplayName": "paint",
+      "ColorIndex": 2
+    },
+    "dc94a6bb-afc3-427a-be02-bb7128ea3e40": {
+      "ProjectGuid": "dc94a6bb-afc3-427a-be02-bb7128ea3e40",
+      "DisplayName": "DragDrop",
+      "ColorIndex": 3
+    },
+    "41b2ba64-4231-4fd0-aaad-9911494fcdd8": {
+      "ProjectGuid": "41b2ba64-4231-4fd0-aaad-9911494fcdd8",
+      "DisplayName": "playingBall",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,15 @@
+﻿<!ELEMENT ITI (ITI-manager,ITI.vice-manager,copyrightsign)>
+<!ELEMENT ITI-manager (#PCDATA)>
+<!ELEMENT ITI.vice-manager (#PCDATA|ITI.ScientificDept|ITI.SpecializedTracks )*>
+<!ELEMENT ITI.ScientificDept (#PCDATA|platform)*>
+
+<!ELEMENT copyrightsign (#PCDATA)>
+<!ELEMENT platform (#PCDATA)>
+<!ELEMENT ProgramManager (#PCDATA)>
+<!ELEMENT Track (#PCDATA)>
+<!ELEMENT ITI.SpecializedTracks (ProgramManager,Track+)>
+
+<!ATTLIST ITI.ScientificDept  mgr CDATA #REQUIRED>
+<!ATTLIST platform mgr CDATA #IMPLIED>
+<!ATTLIST ITI.SpecializedTracks name CDATA  #REQUIRED>
+<!ATTLIST Track mgr CDATA #IMPLIED>

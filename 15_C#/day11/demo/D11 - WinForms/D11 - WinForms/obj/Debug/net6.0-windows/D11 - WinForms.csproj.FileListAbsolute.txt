@@ -1,0 +1,51 @@
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.exe
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.deps.json
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.runtimeconfig.json
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.dll
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\ref\D11 - WinForms.dll
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.pdb
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.AssemblyInfo.cs
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.dll
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\ref\D11 - WinForms.dll
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.pdb
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.genruntimeconfig.cache
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmHome.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmLogin.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmWelcomeScreen.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmNotePad.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmCustDlg.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmGDI.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frnNonRect.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.Properties.Resources.resources
+C:\Users\pc\Desktop\SD 42 C#\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmMickey.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.exe
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.deps.json
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.runtimeconfig.json
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.dll
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\ref\D11 - WinForms.dll
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\bin\Debug\net6.0-windows\D11 - WinForms.pdb
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.csproj.AssemblyReference.cache
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.cutdig.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmHome.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmCustDlg.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmGDI.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmLogin.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmMickey.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmNotePad.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frmWelcomeScreen.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.frnNonRect.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11___WinForms.Properties.Resources.resources
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.csproj.GenerateResource.cache
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.AssemblyInfoInputs.cache
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.AssemblyInfo.cs
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.dll
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\ref\D11 - WinForms.dll
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.pdb
+E:\software engineering\ITI\materials\15_C#\day11\demo\D11 - WinForms\D11 - WinForms\obj\Debug\net6.0-windows\D11 - WinForms.genruntimeconfig.cache

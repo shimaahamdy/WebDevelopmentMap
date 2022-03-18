@@ -1,0 +1,12 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+@{
+    ViewBag.Title = "ErrorHR";
+}
+
+<h2>Error in HR Area</h2>
+
+
+<h2>  @Model.Exception.Message </h2>
+
+<h3>   Controller: @Model.ControllerName  *** Action: @Model.ActionName </h3>
+

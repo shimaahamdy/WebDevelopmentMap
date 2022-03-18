@@ -1,0 +1,43 @@
+#buttons-container
+{
+    margin: 50px;
+}
+label
+{
+    font-size: larger;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 90px;
+}
+#green-label
+{
+    margin-right: 75px;
+}
+
+#red-button-div,#blue-button-div,#green-button-div
+{
+    margin: 50px;
+   
+}
+#red-range,#green-range,#blue-range
+{
+    width: 600px;
+}
+#red-button-div
+{
+    color: red;
+}
+#green-button-div
+{
+    color: green;
+}
+#blue-button-div
+{
+    color: blue;
+}
+#div-text
+{
+    font-size: 40px;
+    margin: 100px;
+}

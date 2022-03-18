@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "ShowDetails";
+}
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: "Raleway", Arial, Helvetica, sans-serif
+        }
+
+        .mySlides {
+            display: none
+        }
+    </style>
+</head>
+<body class="w3-content w3-border-left w3-border-right">
+
+    <!-- Sidebar/menu -->
+    <div class=" w3-light-grey w3-collapse" style="z-index:3;" id="mySidebar">
+        <div class="w3-container w3-display-container w3-padding-16">
+            <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-transparent w3-display-topright"></i>
+            <h3>ShowDetails</h3>
+            <hr>
+
+            <p><i></i>Your ID is: @ViewBag.ID</p>
+            <p><i></i>Your Name is: @ViewBag.Name</p>
+          
+              
+                <img src="~/Images/@ViewBag.Image" style="width:50%;margin-bottom:-6px">
+               
+
+        </div>
+    </div>
+
+
+
+    <footer class="w3-container w3-padding-16" style="margin-top:32px">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></footer>
+
+    <!-- End page content -->
+
+
+
+
+
+
+</body>
+</html>
+
+
+

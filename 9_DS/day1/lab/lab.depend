@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640076208 source:f:\learning\software engineering\iti\9months\9_ds\day\lab\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1640076279 f:\learning\software engineering\iti\9months\9_ds\day\lab\linkedlist.h
+	"Node.h"
+	<iostream>
+
+1639996633 f:\learning\software engineering\iti\9months\9_ds\day\lab\node.h
+

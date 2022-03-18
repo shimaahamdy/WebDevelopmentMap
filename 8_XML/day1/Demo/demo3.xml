@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<course>
+	<head>
+		<title>Introduction to XML</title>
+		<course_num>XML101</course_num>
+		<course_length>3 days</course_length>
+	</head>
+	<body>
+		<prerequisites>
+			<prereq>Experience with Word Processing</prereq>
+			<prereq optional="true">Experience with HTML</prereq>
+			<prereq>Experience with computers</prereq>
+		</prerequisites>
+		<outline>
+			<topics>
+				<topic>XML Basics
+					<topics>
+						<topic>What is XML?</topic>
+						<topic>XML Benefits
+							<topics>
+								<topic>XML Holds Data, Nothing More</topic>
+								<topic>XML Separates Structure from Formatting</topic>
+								<topic>XML Promotes Data Sharing</topic>
+								<topic>XML is Human-Readable</topic>
+								<topic>XML is Free</topic>
+							</topics>
+						</topic>
+						<topic>XML Documents
+							<topics>
+								<topic>The Prolog</topic>
+								<topic>Elements</topic>
+								<topic>Attributes</topic>
+								<topic>CDATA</topic>
+								<topic>XML Syntax Rules</topic>
+								<topic>Special Characters</topic>
+							</topics>
+						</topic>
+						<topic>Creating a Simple XML File</topic>
+		
+					</topics>
+				</topic>
+			</topics>
+		</outline>
+	</body>
+	<foot>
+		<creator>Josh Lockwood</creator>
+		<date_created>2011-07-25</date_created>
+		<modifications madeby="Colby Germond" date="2011-05-05">
+			<modification type="insert">Added HTML prerequisite</modification>
+			<modification type="edit">Fixed some typos</modification>
+		</modifications>
+		<modifications madeby="Ted Ferris" date="2011-03-05">
+			<modification type="insert">
+				Added prerequisite: Experience with Computers
+			</modification>
+			<modification type="insert">
+				Added XML Documents and Creating a Simple XML Document Topics
+			</modification>
+		</modifications>
+	</foot>
+</course>
+

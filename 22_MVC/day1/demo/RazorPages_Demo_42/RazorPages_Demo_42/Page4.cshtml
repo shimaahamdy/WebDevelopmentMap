@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    @{ 
+        var ProductList = new List<RazorPages_Demo_42.product>()
+        {
+            new RazorPages_Demo_42.product(){ ID = 1, name= "product-1", Price= 250 },
+            new RazorPages_Demo_42.product(){ ID = 2, name= "product-2", Price= 300 },
+            new RazorPages_Demo_42.product(){ ID = 3, name= "product-3", Price= 100 },
+            new RazorPages_Demo_42.product(){ ID = 4, name= "product-4", Price= 400 },
+            new RazorPages_Demo_42.product(){ ID = 5, name= "product-5", Price= 40 }
+        };
+    }
+
+    @{ var grid = new WebGrid(ProductList); }
+
+    @grid.GetHtml();
+
+    @*<table>
+        <tr>
+            <th> ID </th>
+            <th> Name </th>
+            <th> Price </th>
+        </tr>
+
+        @foreach (var item in ProductList)
+        {
+            <tr>
+                <td> @item.ID </td>
+                <td> @item.name </td>
+                <td> @item.Price </td>
+            </tr>
+        }
+    </table>*@
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\bin\Debug\net6.0\graphics.deps.json
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\bin\Debug\net6.0\graphics.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\bin\Debug\net6.0\ref\graphics.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\bin\Debug\net6.0\graphics.pdb
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\graphics.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\graphics.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\graphics.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\graphics.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\graphics.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\ref\graphics.dll
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\graphics.pdb
+E:\software engineering\ITI\tasks\15_C#\day5\lab\graphics\obj\Debug\net6.0\graphics.csproj.AssemblyReference.cache

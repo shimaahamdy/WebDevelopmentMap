@@ -1,0 +1,68 @@
+sql server versions: 
+كل سنه فيه tools جديده بتنزل 
+sql server eddition
+ديه features مقابل فلوس
+
+-ليه مش كل الناس بتستخدم ال cloud ?
+-----------------------------
+الداتا هتبقا متاحه لل vendor فا لحد مدي  انتا بتثق فيهم 
+-محتاج internt connection عالي وسريع 
+
+
+انا ممكن اسطب ال sevices اكثر من مره زي data base engine 
+كل سرفيس بتنزل ليها حجم معين في الرامات  وميموري معينه بتفضل مستخدماه 
+فلو انا عايز اشغل اثنين بدل اما يبقوا علي نفس الجزء اقسمهم وكل واحد يشتغل لوحده 
+او لوو عاوزه backup علي سبرفر تاني 
+
+الابلكشن هي مره واحده بتتسطب 
+
+واحنا بسطب سيرفس لااول مره بتبقا ال default instance
+وتنزل باسمها اعمل كونكت :
+.
+local
+Pc-Name
+ip (current PC)
+
+لو هاسطبها تاني يقف علي named instance علشان مينعش الاثنين 
+ليهم نفس الاسم
+لو عاوزه اهمل connect
+
+  namedinstance/.
+   local/namedinstance
+
+احنا ب connect بيبقا Remotly مستقبلا 
+
+-------------------------------
+authentication
+مين اللي داخل username , passeword
+فيه نوعين في sql server 
+-windows authenication
+-sql server authentication
+عندي نوعين من ال user
+
+windows:
+windows admin هو ال sql sever admin
+عنده صالحيات الجهاز وال sql server
+
+sql server
+user ليه صالحيات معينه بيعمله ال sql server adminstrator
+وده لازم واحنا بنعمل Setup يبقا mixed mode علشان اضيف user تانيه
+proberties -> security-->sql server and windows --> server restart
+Security-->loggins-->new login
+
+login --> just connect to server
+لو عاوز ت access داتا بيز معينه بقا بنعمل user علي الداتا بيز
+
+databasename-->security-->users
+بردوا هو كدا دخل علي داتا بيز بس انما علشان يدخل علي tables وبيشتغل 
+ده ال authorization (ال premissions) ايه اللي يعمله في داتا بيز
+
+اما نعمل mixed mode بيبقا عندنا 2 admin:
+-window(add current user)
+-sa (remotly users)
+ال sa ده ال sql server admin
+
+اما اعمل mixed يبقا كدا هاشتغل في ده remotly
+لو انا مخترتش mixed ال sa مش هيبقا active محتاج تعمله Active
+
+

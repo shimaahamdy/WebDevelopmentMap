@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<father  job="eng" age="20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="Document3">
+<mother age="10"></mother>
+<daughter></daughter>
+<son></son>
+	</father>

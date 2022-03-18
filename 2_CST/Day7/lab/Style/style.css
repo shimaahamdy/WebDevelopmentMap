@@ -1,0 +1,24 @@
+.div1
+{
+    position:relative;
+    left: 800px;
+    width:250px;
+}
+
+.div2
+{
+    position: relative;
+    right: 800px;
+    top: 300px;
+} 
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+.item_cir
+{
+    list-style-type: circle;
+}
+

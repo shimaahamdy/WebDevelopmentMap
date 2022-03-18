@@ -1,0 +1,36 @@
+﻿@*@{ Layout = "_myLayout.cshtml"; }*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+    @{ var imagePath = ""; }
+
+    <form method="post">
+        <select name="picList">
+            <option value="1.gif"> Photo-1 </option>
+            <option value="2.gif"> Photo-2 </option>
+            <option value="3.gif"> Photo-3 </option>
+            <option value="4.gif"> Photo-4 </option>
+            <option value="5.gif"> Photo-5 </option>
+            <option value="6.gif"> Photo-6 </option>
+        </select>
+
+        <input type="submit" value="Choose" />
+    </form>
+
+    @if (IsPost)
+    {
+        imagePath = "images/" + Request["picList"];
+    }
+
+    <img src=@imagePath alt="Alternate Text" />
+
+
+    @RenderPage("FooterPage.cshtml")
+
+</body>
+</html>

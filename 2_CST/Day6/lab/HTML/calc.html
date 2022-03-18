@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>calculator</title>
+    <link href="../Style/style.css" type="text/css" rel="stylesheet">
+
+
+</head>
+
+<body>
+    <div>
+        <input  type="text" name="usr" value="abc" id="txt1" onfocus="select()" onblur="console.log(this.value)">
+        <br>
+        <input type="button" value=" 1 " onclick="writeVal(this.value)">
+        <input type="button" value=" 2 " onclick="writeVal(this.value)">
+        <input type="button" value=" 3 " onclick="writeVal(this.value)">
+        <input type="button" value=" + " onclick="calc(this.value)">
+        <br>
+        <input type="button" value=" 4 " onclick="writeVal(this.value)">
+        <input type="button" value=" 5 " onclick="writeVal(this.value)">
+        <input type="button" value=" 6 " onclick="writeVal(this.value)">
+        <input type="button" value=" - " onclick="calc(this.value)">
+        
+        <br>
+        <input type="button" value=" 7 " onclick="writeVal(this.value)">
+        <input type="button" value=" 8 " onclick="writeVal(this.value)">            
+        <input type="button" value=" 9 " onclick="writeVal(this.value)">
+        <input type="button" value=" / " onclick="calc(this.value)">
+        <br>
+        <input type="button" value=" 0 " onclick="writeVal(this.value)">
+        <input type="button" value=" C " onclick="clear_input()">
+        <input type="button" value=" << "onclick="del_num()">
+        <input type="button" value=" * " onclick="calc(this.value)">
+        <br>
+        <input id="equal" type="button" value=" = " onclick="calc(this.value)">
+        <br>
+        </div>
+</body>
+
+</html>
+<script src="../JS/script.js"></script>

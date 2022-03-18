@@ -1,0 +1,199 @@
+#div1{
+    height: 200px;
+    border: 5px solid red;
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    overflow: scroll;
+    /* overflow: auto; */
+}
+
+
+/* #img1{ */
+    /*overflow: visible;*//*default*/
+    /* overflow: hidden; */
+    /* overflow: auto;
+} */
+
+
+
+
+.img{
+    border: 1px solid black;
+    width: 200px;
+    height: auto;
+    position: absolute;
+    left: 20px;
+}
+
+#i1{
+    top: 250px;
+    z-index: 2;
+}
+#i2{
+    top: 290px;
+    left: 40px;
+    z-index: 3;
+}
+
+
+#h1{
+    position: sticky;
+    top: 50px;
+}
+#l{
+    float: left;
+}
+
+#r{
+    float: right;
+}
+
+
+/* #pp{
+    clear: both;
+} */
+
+
+
+/*Pesudo (Classes/Elements) Selectors*/
+
+
+#pp1::first-letter{
+    font-size: 24pt;
+    color: red;
+    margin-left: 20px;
+}
+
+
+#pp1::first-line{
+    color: blue !important;
+}
+
+#pp1::first-line{
+    color: green;
+}
+
+#ul{
+    float: left;
+    list-style: none;
+    margin: 20px;
+    margin-left: 0%;
+    padding-left: 0%;
+}
+
+
+/* #ul li:first-child{
+    background-color: darkgrey;
+} */
+
+#ul li:nth-child(even){
+    background-color: darkgrey;
+}
+
+#ul li:nth-child(odd){
+    background-color: lightgrey;
+}
+
+
+#ul li:hover{
+    background-color: azure;
+    color: bisque;
+}
+
+#top:target{
+    background-color: antiquewhite;
+}
+
+
+#pi{
+    background-color: aqua !important;
+}
+
+
+#pi{
+    background-color: blue;
+    color: white;
+}
+
+#helloh1{
+    width: fit-content;
+    border-radius: 20px;
+    box-shadow: red 5px 5px 5px 5px, green 5px 5px 5px 5px, darkgray 5px 5px 5px 5px;
+}
+
+
+
+
+/*Animation*/
+
+@keyframes myAnimation {
+    from{
+        left: 20px;
+        background-color: aquamarine;
+    }
+    to{
+        left: 150px;
+        background-color: blue;
+    }
+}
+
+
+@keyframes myAnimation2 {
+    0%{
+        left: 20px;
+        background-color: aquamarine;
+    }
+    50%{
+        /* left: 80px; */
+        background-color: blue;
+    }
+    100%{
+        left: 150px;
+        background-color: black;
+    }
+}
+
+
+
+#div11{
+    position: absolute;
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    background-color: antiquewhite;
+    animation-name: myAnimation2;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;/*default => normal*/
+    /*alternate ==> from left to right &&&  from right to left*/
+    /*reverse ==> from right to left*/
+}
+
+
+#h1hover{
+    position: absolute;
+    top:100px;
+    /* background-color: red; */
+
+    transition: all 3s;
+}
+
+#h1hover:hover{
+    /* width: fit-content; */
+    background-color: red;
+    color: white;
+    /* transition: all 2s; */
+    transition: color 2s, background-color 10s;
+}
+
+
+#input1:valid{
+    border: 1px solid lightblue;
+}
+
+#input1:invalid{
+    border: 1px solid red;
+}
+

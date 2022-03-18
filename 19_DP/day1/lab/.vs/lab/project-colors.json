@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cca33f47-bc01-48f8-8025-8b9b443cb494": {
+      "ProjectGuid": "cca33f47-bc01-48f8-8025-8b9b443cb494",
+      "DisplayName": "observer",
+      "ColorIndex": 0
+    },
+    "c2d208a1-c76c-47e3-8a01-33180b0ae14c": {
+      "ProjectGuid": "c2d208a1-c76c-47e3-8a01-33180b0ae14c",
+      "DisplayName": "Strategy",
+      "ColorIndex": 1
+    },
+    "d8a854c1-ab81-4d38-84be-07e3fad76925": {
+      "ProjectGuid": "d8a854c1-ab81-4d38-84be-07e3fad76925",
+      "DisplayName": "Decorator",
+      "ColorIndex": 2
+    },
+    "9fef8206-e2fd-4118-9d43-04b487502bfa": {
+      "ProjectGuid": "9fef8206-e2fd-4118-9d43-04b487502bfa",
+      "DisplayName": "Strategye",
+      "ColorIndex": 3
+    },
+    "60bd00de-013c-472f-a889-d0f4e82d784a": {
+      "ProjectGuid": "60bd00de-013c-472f-a889-d0f4e82d784a",
+      "DisplayName": "Builder",
+      "ColorIndex": 4
+    },
+    "89f3f051-1b5e-4420-a9a5-7b50e4012703": {
+      "ProjectGuid": "89f3f051-1b5e-4420-a9a5-7b50e4012703",
+      "DisplayName": "WeatherDelgate",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Untitled Document</title>
+    <style>
+        #res{
+            color:red !important;
+        }
+        </style>
+
+</head>
+<body>
+<select>
+    <option>option1</option>
+    <option>option2</option>
+    <option>option3</option>
+    <option>option4</option>
+</select>
+<input type="text" list="dl1">
+<datalist id="dl1">
+    <option label="option1" value="#1"></option>
+    <option label="option2" value="#2"></option>
+    <option label="option3" value="#3"></option>
+    <option label="option4" value="#4"></option>
+    
+</datalist>
+
+<form oninput="res.value=parseInt(p1.value)+parseInt(p2.value)">
+    <input id="p1" type="range" min="0" max="20" step="1" value="10">
+    <input id="p2" type="number" min="10" max="50" step="1" value="15">
+    <output for="p1 p2" id="res"></output>
+    
+</form>
+<form>
+<input type="email" required pla/>
+<input type="text" pattern="[a-z]{5}"/>
+<input type="search">
+<input type="date">
+<input type="week">
+<input type="color">
+ <input type="number" min="18" step="5" max="55"> 
+ <input type="range" min="0" step="10" max="100" value="20"> 
+ <input type="submit"/>
+ </form>
+  <details id="d1">
+      <summary>HTML</summary>
+      <p>Hyper Text Markup Language</p>
+      
+  </details>
+   <meter min="0" low="20" value="95" optimum="90" high="80" max="100"></meter>
+   <meter min="0" low="20" value="10" optimum="90" high="80" max="100"></meter>
+   <meter min="0" low="20" value="50" optimum="90" high="80" max="100"></meter>
+   <progress max="50" value="10"></progress>
+  <br>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <pre>
+  <code>
+      for(var <var>i</var>=0;<var>i</var>&lt;10;i++){
+           <mark>console.log(i);</mark>
+      }
+  </code>
+  </pre>
+  <script>
+    var elem=document.getElementById("d1");
+      elem.addEventListener("toggle",function(){
+          if(elem.open)
+              console.log("opened details element");
+          else
+            console.log("closed");
+      })
+    </script>
+</body>
+</html>

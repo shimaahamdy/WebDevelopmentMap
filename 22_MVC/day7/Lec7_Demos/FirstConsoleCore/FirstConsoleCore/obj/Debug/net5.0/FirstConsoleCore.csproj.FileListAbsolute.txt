@@ -1,0 +1,16 @@
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Debug\net5.0\FirstConsoleCore.exe
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Debug\net5.0\FirstConsoleCore.deps.json
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Debug\net5.0\FirstConsoleCore.runtimeconfig.json
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Debug\net5.0\FirstConsoleCore.runtimeconfig.dev.json
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Debug\net5.0\FirstConsoleCore.dll
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\bin\Debug\net5.0\FirstConsoleCore.pdb
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.csproj.AssemblyReference.cache
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.AssemblyInfoInputs.cache
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.AssemblyInfo.cs
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.csproj.CoreCompileInputs.cache
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.dll
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\refint\FirstConsoleCore.dll
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.pdb
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\FirstConsoleCore.genruntimeconfig.cache
+C:\Users\iti\source\repos\FirstConsoleCore\FirstConsoleCore\obj\Debug\net5.0\ref\FirstConsoleCore.dll

@@ -1,0 +1,12 @@
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\bin\Debug\net6.0\Strategy.deps.json
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\bin\Debug\net6.0\Strategy.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\bin\Debug\net6.0\ref\Strategy.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\bin\Debug\net6.0\Strategy.pdb
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\Strategy.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\Strategy.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\ref\Strategy.dll
+E:\software engineering\ITI\tasks\19_DP\day1\lab\Strategy\obj\Debug\net6.0\Strategy.pdb

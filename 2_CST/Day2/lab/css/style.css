@@ -1,0 +1,89 @@
+body
+{
+    background-color:rgb(236, 184, 184);
+    
+    
+}
+.underlined
+{
+    display: inline;
+    border-bottom:1px solid #000;
+    color:rgb(119, 7, 67);
+    border-bottom-color: rgb(119, 7, 67);
+    
+}
+.enterimg
+{
+    display: block;
+    position: fixed;
+    top: 20%;
+    left: 35%;
+
+}
+.link1
+{
+    display:block;
+
+}
+
+table
+{
+    border-width: 10px;
+    border-style: solid;
+    border-bottom-color: rgb(167, 5, 5);
+    border-right-color: rgb(167, 5, 5);
+    border-top-color: rgb(238, 167, 167);
+    border-left-color: rgb(238, 167, 167);
+}
+
+td
+{
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color:rgb(167, 5, 5);
+    border-left-width:2px ;
+    border-left-style: solid;
+    border-left-color: rgb(167, 5, 5);
+    border-right-width:0.5px ;
+    border-right-style: solid;
+    border-right-color: rgb(238, 167, 167);
+    border-bottom-width:0.5px ;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(238, 167, 167);
+    width: 200px;
+
+}
+.name, label
+{
+    width: 200px;
+}
+.smallfield
+{
+    width: 50;
+}
+.centerdiv
+{
+    text-align: center;
+}
+#fontincrese
+{
+    font-size: x-large;
+}
+
+legend
+{
+    color: red;
+}
+
+.loginform,table
+{
+    position: relative;
+    left: 35%;
+    top: 30;
+    width: 450px;
+}
+
+.loginform
+{
+    width: 350px;
+}

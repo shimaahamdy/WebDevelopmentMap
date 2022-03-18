@@ -1,0 +1,58 @@
+﻿<Window x:Class="tasks.Text"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tasks"
+        mc:Ignorable="d"
+        Title="Text" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*">
+            </RowDefinition>
+            <RowDefinition Height="3*">
+            </RowDefinition>
+            <RowDefinition Height="3*">
+            </RowDefinition>
+            <RowDefinition Height="3*">
+            </RowDefinition>
+            <RowDefinition Height="3*">
+            </RowDefinition>
+        </Grid.RowDefinitions>
+
+        <RichTextBox x:Name="txtOne" Width="800">
+            <FlowDocument x:Name="al">
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click">Set text</Button>
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_1">Select All</Button>
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_2">Clear</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_3">Prepend</Button>
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_8">Insert</Button>
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_7">Append</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" HorizontalAlignment="Center">
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_4">Cut</Button>
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_5">Paste</Button>
+            <Button Width="70" Height="23" Margin="20" Click="Button_Click_6">Undo</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="4" HorizontalAlignment="Center">
+            <GroupBox HorizontalAlignment="Center">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <RadioButton Margin="10" Content="Editable" Click="RadioButton_Click"></RadioButton>
+                    <RadioButton Margin="10" Content="Readonly" Click="RadioButton_Click"></RadioButton>
+                    <RadioButton  Margin="10" Content="Left" Click="RadioButton_Click"></RadioButton>
+                    <RadioButton  Margin="10" Content="Center" Click="RadioButton_Click"></RadioButton>
+                    <RadioButton  Margin="10" Content="Right" Click="RadioButton_Click"></RadioButton>
+                </StackPanel>
+
+            </GroupBox>
+        </StackPanel>
+    </Grid>
+</Window>

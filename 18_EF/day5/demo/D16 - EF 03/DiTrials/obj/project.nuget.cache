@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jTQJnQJdRrb7eflduf959BylsgSfN6RaYcu6P1Rt02buhcRkmnozQ9ltuRzAr3S1rRVkxm4o7UDi6QjAQquomw==",
+  "success": true,
+  "projectFilePath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day5\\demo\\D16 - EF 03\\DiTrials\\DiTrials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

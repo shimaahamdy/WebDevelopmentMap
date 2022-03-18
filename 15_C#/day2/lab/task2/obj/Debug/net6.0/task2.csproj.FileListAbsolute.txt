@@ -1,0 +1,15 @@
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\bin\Debug\net6.0\task2.exe
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\bin\Debug\net6.0\task2.deps.json
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\bin\Debug\net6.0\task2.dll
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\bin\Debug\net6.0\ref\task2.dll
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\bin\Debug\net6.0\task2.pdb
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.dll
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\ref\task2.dll
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.pdb
+E:\software engineering\ITI\tasks\15_C#\day2\lab\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache

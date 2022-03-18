@@ -1,0 +1,17 @@
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.csproj.AssemblyReference.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.frmPaint.resources
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.csproj.GenerateResource.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.AssemblyInfoInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.AssemblyInfo.cs
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\bin\Debug\net6.0-windows\paint.exe
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\bin\Debug\net6.0-windows\paint.deps.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\bin\Debug\net6.0-windows\paint.runtimeconfig.json
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\bin\Debug\net6.0-windows\paint.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\bin\Debug\net6.0-windows\ref\paint.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\bin\Debug\net6.0-windows\paint.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\ref\paint.dll
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.pdb
+E:\software engineering\ITI\tasks\15_C#\day11\lab\lab\paint\obj\Debug\net6.0-windows\paint.genruntimeconfig.cache

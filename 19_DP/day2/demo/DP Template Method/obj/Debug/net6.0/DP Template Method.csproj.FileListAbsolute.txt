@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\bin\Debug\net6.0\DP Template Method.exe
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\bin\Debug\net6.0\DP Template Method.deps.json
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\bin\Debug\net6.0\DP Template Method.runtimeconfig.json
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\bin\Debug\net6.0\DP Template Method.dll
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\bin\Debug\net6.0\DP Template Method.pdb
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.AssemblyInfo.cs
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.dll
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\refint\DP Template Method.dll
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.pdb
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\DP Template Method.genruntimeconfig.cache
+C:\Users\pc\Desktop\SD 42 C#\DP D02\DP Template Method\obj\Debug\net6.0\ref\DP Template Method.dll

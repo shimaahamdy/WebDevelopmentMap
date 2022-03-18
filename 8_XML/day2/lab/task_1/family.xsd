@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:element name="family" type="familytype"></xs:element>
+
+<xs:complexType name="familytype">
+<xs:sequence>
+<xs:element name="grandfather" type="grandfathertype"></xs:element>
+</xs:sequence>
+<xs:attribute name="name" type="xs:string" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="grandfathertype" mixed="true">
+<xs:sequence>
+<xs:element name="father" type="fathertype" maxOccurs="unbounded"></xs:element>
+<xs:element name="uncle" type="xs:string" maxOccurs="unbounded"/>
+<xs:element name="aunt" type="aunttype" maxOccurs="unbounded"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="fathertype" mixed="true">
+<xs:sequence>
+<xs:element name="mother" type="mothertype"></xs:element>
+<xs:element name="daughter" type="daughtertype" maxOccurs="unbounded"></xs:element>
+<xs:element name="son" type="sontype" maxOccurs="unbounded"></xs:element>
+</xs:sequence>
+<xs:attribute name="job" type="xs:string" use="optional" />
+</xs:complexType>
+
+<xs:complexType name="mothertype">
+<xs:attribute name="name" type="xs:string" use="required" />
+</xs:complexType>
+
+<xs:complexType name="daughtertype">
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="age" type="xs:string" use="required" />
+<xs:attribute name="job" type="xs:string" use="optional" />
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+
+<xs:complexType name="sontype" mixed="true">
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="age" type="xs:unsignedByte" use="required" />
+<xs:attribute name="sport" type="xs:string" use="optional" />
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+<xs:complexType name="aunttype">
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="sons" type="xs:unsignedByte" use="optional" />
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+</xs:schema>
