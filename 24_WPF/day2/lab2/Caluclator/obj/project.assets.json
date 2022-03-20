@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\software engineering\\ITI\\tasks\\24_WPF\\day2\\lab2\\Caluclator\\Caluclator.csproj",
+      "projectUniqueName": "E:\\software engineering\\ITI\\Task\\24_WPF\\day2\\lab2\\Caluclator\\Caluclator.csproj",
       "projectName": "Caluclator",
-      "projectPath": "E:\\software engineering\\ITI\\tasks\\24_WPF\\day2\\lab2\\Caluclator\\Caluclator.csproj",
+      "projectPath": "E:\\software engineering\\ITI\\Task\\24_WPF\\day2\\lab2\\Caluclator\\Caluclator.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\software engineering\\ITI\\tasks\\24_WPF\\day2\\lab2\\Caluclator\\obj\\",
+      "outputPath": "E:\\software engineering\\ITI\\Task\\24_WPF\\day2\\lab2\\Caluclator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

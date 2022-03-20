@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Caluclator"
         mc:Ignorable="d"
-    Title="MainWindow" Height="450" Width="450">
+    Title="MainWindow" Height="460" Width="400">
     <StackPanel Margin="10">
-        <TextBox Height="100"></TextBox>
+        <TextBox x:Name="txt" Height="100" FontSize="20"></TextBox>
         <Grid Height="315">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition></ColumnDefinition>
@@ -21,22 +21,22 @@
                 <RowDefinition></RowDefinition>
                 <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
-            <Button Grid.Column="0" Grid.Row="0" FontSize="30" Content="7"></Button>
-            <Button Grid.Column="1" Grid.Row="0" FontSize="30" Content="8"></Button>
-            <Button Grid.Column="2" Grid.Row="0" FontSize="30" Content="9"></Button>
-            <Button Grid.Column="3" Grid.Row="0" FontSize="30" Content="/"></Button>
-            <Button Grid.Column="0" Grid.Row="1" FontSize="30" Content="4"></Button>
-            <Button Grid.Column="1" Grid.Row="1" FontSize="30" Content="5"></Button>
-            <Button Grid.Column="2" Grid.Row="1" FontSize="30" Content="6"></Button>
-            <Button Grid.Column="3" Grid.Row="1" FontSize="30" Content="*"></Button>
-            <Button Grid.Column="0" Grid.Row="2" FontSize="30" Content="1"></Button>
-            <Button Grid.Column="1" Grid.Row="2" FontSize="30" Content="2"></Button>
-            <Button Grid.Column="2" Grid.Row="2" FontSize="30" Content="3"></Button>
-            <Button Grid.Column="3" Grid.Row="2" FontSize="30" Content="-"></Button>
-            <Button Grid.Column="0" Grid.Row="3" FontSize="30" Content="0"></Button>
-            <Button Grid.Column="1" Grid.Row="3" FontSize="30" Content="."></Button>
-            <Button Grid.Column="2" Grid.Row="3" FontSize="30" Content="+"></Button>
-            <Button Grid.Column="3" Grid.Row="3" FontSize="30" Content="="></Button>
+            <Button Grid.Column="0" Grid.Row="0" FontSize="20" Content="7" Click="num"></Button>
+            <Button Grid.Column="1" Grid.Row="0" FontSize="20" Content="8" Click="num"></Button>
+            <Button Grid.Column="2" Grid.Row="0" FontSize="20" Content="9" Click="num"></Button>
+            <Button Grid.Column="3" Grid.Row="0" FontSize="20" Content="/" Click="num"></Button>
+            <Button Grid.Column="0" Grid.Row="1" FontSize="20" Content="4" Click="num"></Button>
+            <Button Grid.Column="1" Grid.Row="1" FontSize="20" Content="5" Click="num"></Button>
+            <Button Grid.Column="2" Grid.Row="1" FontSize="20" Content="6" Click="num"></Button>
+            <Button Grid.Column="3" Grid.Row="1" FontSize="20" Content="*" Click="num"></Button>
+            <Button Grid.Column="0" Grid.Row="2" FontSize="20" Content="1" Click="num"></Button>
+            <Button Grid.Column="1" Grid.Row="2" FontSize="20" Content="2" Click="num"></Button>
+            <Button Grid.Column="2" Grid.Row="2" FontSize="20" Content="3" Click="num"></Button>
+            <Button Grid.Column="3" Grid.Row="2" FontSize="20" Content="-" Click="num"></Button>
+            <Button Grid.Column="0" Grid.Row="3" FontSize="20" Content="0" Click="num"></Button>
+            <Button Grid.Column="1" Grid.Row="3" FontSize="20" Content="ClR" Click="Clear"></Button>
+            <Button Grid.Column="2" Grid.Row="3" FontSize="20" Content="+" Click="num"></Button>
+            <Button Grid.Column="3" Grid.Row="3" FontSize="20" Content="=" Click="Result"></Button>
         </Grid>
     </StackPanel>
 </Window>
