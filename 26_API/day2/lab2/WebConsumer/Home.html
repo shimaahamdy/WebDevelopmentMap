@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function () {
+            $.ajax({
+
+                url: "https://localhost:44388/api/Courses",
+                method: 'GET',
+                success: function (data) {
+                    //document.getElementById("demo").innerHTML = JSON.stringify(data);
+                    courses = JSON.parse(JSON.stringify(data));
+                    text = "<table border='1'><tr><th>CrsID</th><th>CrsName</th><th>CrsDuration</th><th>CrsTopic</th></tr >"
+                    for (x in courses) {
+                        text += "<tr><td>" + courses[x].Crs_Id + "</td>";
+                        text += "<td>" + courses[x].Crs_Name + "</td>";
+                        text += "<td>" + courses[x].Crs_Duration + "</td>";
+                        text += "<td>" + courses[x].Top_Id + "</td></tr>";
+                    }
+                    text += "</table>"
+                    document.getElementById("demo").innerHTML = text;
+                }
+            })
+            $.ajax({
+                url: "https://localhost:44388/api/Topics",
+                method: 'GET',
+                success: function (data) {
+                    //document.getElementById("demo").innerHTML = JSON.stringify(data);
+                    Topics = JSON.parse(JSON.stringify(data));
+                    text = "<select name=\"topics\" id=\"topics\">";
+                    for (x in Topics) {
+                        text += "<option value="+Topics[x].Top_Id+">"+Topics[x].Top_Name+"</option>";
+
+                    }
+                    text += "</select>"
+                    document.getElementById("sele").innerHTML = text;
+                }
+            })
+
+        })
+
+        function add() {
+            var course = {
+                Crs_Id: $("#id").val(),
+                Crs_Name: $("#name").val(),
+                Crs_Duration: $("#dur").val(),
+                Top_Id: $("#topics").val()
+            }
+            $.ajax({
+                url: "https://localhost:44388/api/Courses",
+                method: 'POST',
+                data: JSON.stringify(course),
+                contentType: 'application/json',
+                success: function (data) {
+                    Crs = JSON.stringify(data);
+                    document.getElementById("cour").innerHTML = Crs;
+                    
+                }
+            })
+            }
+            
+
+    </script>
+</head>
+<body>
+    <p id="demo"></p>
+
+    <p> add course</p>
+    crsID: <input type="number" id="id" /><br />
+    CrsName: <input type="text" id="name" /><br />
+    CrsDuration: <input type="number" id="dur" /><br />
+    Topic: <p id="sele"></p>
+    <input type="button" value="add" onclick="add()" />
+
+    <p id="cour"></p>
+</body>
+</html>

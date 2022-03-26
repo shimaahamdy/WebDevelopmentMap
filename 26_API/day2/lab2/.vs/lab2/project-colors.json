@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95e54a5e-0c69-468c-bf66-53d7293d03aa": {
+      "ProjectGuid": "95e54a5e-0c69-468c-bf66-53d7293d03aa",
+      "DisplayName": "webAPI",
+      "ColorIndex": 0
+    },
+    "5a77b72e-7a0f-4f04-b8cf-9fede5afb658": {
+      "ProjectGuid": "5a77b72e-7a0f-4f04-b8cf-9fede5afb658",
+      "DisplayName": "DesktopConsumer",
+      "ColorIndex": 1
+    },
+    "137b807d-99dd-494b-99e9-70d0ac6908c7": {
+      "ProjectGuid": "137b807d-99dd-494b-99e9-70d0ac6908c7",
+      "DisplayName": "WebConsumer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

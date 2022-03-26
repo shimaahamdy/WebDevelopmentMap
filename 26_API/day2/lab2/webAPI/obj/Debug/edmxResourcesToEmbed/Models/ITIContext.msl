@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ITIModelStoreContainer" CdmEntityContainer="ITIEntities">
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="ITIModel.Course">
+        <MappingFragment StoreEntitySet="Course">
+          <ScalarProperty Name="Crs_Id" ColumnName="Crs_Id" />
+          <ScalarProperty Name="Crs_Name" ColumnName="Crs_Name" />
+          <ScalarProperty Name="Crs_Duration" ColumnName="Crs_Duration" />
+          <ScalarProperty Name="Top_Id" ColumnName="Top_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Topics">
+      <EntityTypeMapping TypeName="ITIModel.Topic">
+        <MappingFragment StoreEntitySet="Topic">
+          <ScalarProperty Name="Top_Id" ColumnName="Top_Id" />
+          <ScalarProperty Name="Top_Name" ColumnName="Top_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

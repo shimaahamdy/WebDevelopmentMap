@@ -1,0 +1,16 @@
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\bin\Debug\APPconsumer.exe.config
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\bin\Debug\APPconsumer.exe
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\bin\Debug\APPconsumer.pdb
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.csproj.AssemblyReference.cache
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.Form1.resources
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.Properties.Resources.resources
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.csproj.GenerateResource.cache
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.csproj.CoreCompileInputs.cache
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.csproj.CopyComplete
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.exe
+C:\Users\ITI\Desktop\WEBAPI\Day2\APPconsumer\APPconsumer\obj\Debug\APPconsumer.pdb

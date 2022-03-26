@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7c75cd6-9d27-4f08-a27d-ad65cc2ab5d6": {
+      "ProjectGuid": "b7c75cd6-9d27-4f08-a27d-ad65cc2ab5d6",
+      "DisplayName": "Practice",
+      "ColorIndex": 0
+    },
+    "9926e61f-229b-476e-866d-81536190f373": {
+      "ProjectGuid": "9926e61f-229b-476e-866d-81536190f373",
+      "DisplayName": "tasks",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

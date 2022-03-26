@@ -1,0 +1,121 @@
+HTTP protocol:
+--------------
+requist & response
+
+
+model: webAPI
+various UI(mobile/web/desktop) with one code and one database
+differnt technology connect with one database and one code implemenation
+code:C# 
+database:sql
+
+how differnt machines understand each others:
+--------------------------------------------------
+
+1-js/android call c# function --> controller
+every function have url and then we can call it
+
+2-send & recieve date --> common data presenatation we can both understand
+(Json)
+
+json over xml
+easy to convert to any object
+less memory
+
+-----------------------------------------------------------------------
+different models:
+------------------
+SOAP: simple object access protocol 
+middle translator: proxy class
+convert from technology to other 
+-------------------------------------------
+Rest service (web api):
+-http/https
+-call function by url
+-send & recive data json
+-help page : function (docmantion)
+
+SOAP:
+-any protocl
+-call functin by proxy class
+-send & recive data (soap(xml)+data)
+-WSDL: web service description (docmantion)
+--------------------------------------------------
+API:application program interface
+interface so we can call through
+web API: same but on web (rest)
+collection of functions we call it
+
+asp.net web api
+web api
+rest service
+http service
+restful api
+-------------------------
+app: -uI
+     -Code
+     -database
+
+backend: api 
+UI: html,js (no views -->cshtml)
+mvc: we werent able to use anyting despite razor so we can understand 
+c# objects
+----------------------------------------------------------------------
+http verb: detect kind of request (POST,GET,Delete,PUT,Option,...)
+POST: send data in body of requist
+get: send data in query string as there is no body with get method
+
+deal web api as http resources:
+
+
+preferaoblue routing in api:
+{Controller}/{id?}
+
+verb of requist detect function in the controller
+
+select =>get (no body)
+add =>post
+edit =>put
+delete => delete (no body)
+-------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

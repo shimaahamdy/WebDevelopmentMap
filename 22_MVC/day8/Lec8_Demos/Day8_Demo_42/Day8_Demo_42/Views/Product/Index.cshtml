@@ -1,0 +1,70 @@
+﻿@*@using Day8_Demo_42.Models*@
+@model IEnumerable<Product>
+
+@*@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers"*@
+
+@*@{
+    Layout = "~Views/Shared/_Layout.cshtml";
+}*@
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link href="~/css/min/AllStyles.mim.min.css" rel="stylesheet" />
+
+<h1>Index</h1>
+
+
+<div>
+    fsdgfgsfgdg
+</div>     
+
+<a href="/Product/Calculate?x=6&y=7" class="btn btn-primary"> Clac_plainHtml </a>
+
+@Html.ActionLink("Clac_HtmlHelper", "Calculate", "Product", new { x=6, y=7 },
+                        new { @class = "btn btn-primary"})
+
+<a asp-controller="Product" asp-action="Calculate" asp-route-x="6" asp-route-y="7"
+class="btn btn-primary"> Clac_TagHelper </a>
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
