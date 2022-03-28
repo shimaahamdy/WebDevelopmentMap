@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27a312e0-c40b-4f56-8c50-25db4dcb2c06": {
+      "ProjectGuid": "27a312e0-c40b-4f56-8c50-25db4dcb2c06",
+      "DisplayName": "APIcore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

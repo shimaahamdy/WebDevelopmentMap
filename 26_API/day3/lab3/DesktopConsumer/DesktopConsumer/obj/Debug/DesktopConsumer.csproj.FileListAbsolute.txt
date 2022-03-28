@@ -1,0 +1,17 @@
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\bin\Debug\DesktopConsumer.exe.config
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\bin\Debug\DesktopConsumer.exe
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\bin\Debug\DesktopConsumer.pdb
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\bin\Debug\Newtonsoft.Json.dll
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\bin\Debug\System.Net.Http.Formatting.dll
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\bin\Debug\Newtonsoft.Json.xml
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\bin\Debug\System.Net.Http.Formatting.xml
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.csproj.AssemblyReference.cache
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.csproj.SuggestedBindingRedirects.cache
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.Form1.resources
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.Form2.resources
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.Properties.Resources.resources
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.csproj.GenerateResource.cache
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.csproj.CopyComplete
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.exe
+E:\software engineering\ITI\Task\26_API\day3\lab3\DesktopConsumer\DesktopConsumer\obj\Debug\DesktopConsumer.pdb
