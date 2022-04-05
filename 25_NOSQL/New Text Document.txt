@@ -1,0 +1,22 @@
+9) Create new database named: FacultySystemV2.
+
+use FacultySystemV2
+
+	//•	Create student collection that has (FirstName, lastName, IsFired,
+	FacultyID, array of objects, each object has CourseID, grade).
+	
+	
+	db.student.insert({
+	fName:"Ahmed",lName:"Ramadan",IsFired:false,factId:1,
+	course:[{cID:1,grade:60},{cID:2,grade:100}]
+	})
+	
+	
+	//•	Create Faculty collection that has (Faculty Name, Address).
+	
+	db.faculty.insert({name:"FCI",Address:"Cairo"})
+	
+	
+	//•	Create Course collection, which has (Course Name, Final Mark).
+	
+	db.course.insert({cname:"c#",mark:100})
