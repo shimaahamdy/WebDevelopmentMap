@@ -73,5 +73,5 @@ class FlightTickets{
 
 
 
-
+//only one object
 module.exports = new FlightTickets();

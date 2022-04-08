@@ -1,0 +1,19 @@
+{
+  "name": "umdnodejstest",
+  "version": "1.0.1",
+  "description": "test module export",
+  "main": "Modules/module1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SD42",
+    "2022",
+    "NodeJS2022"
+  ],
+  "author": "SD42",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

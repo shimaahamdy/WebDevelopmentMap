@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" href="./favicon.ico">
+    <link href="./style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    
+<h3>Using CSS to style an HTML Form</h3>
+
+<div>
+  <form action="./profile.html" method="post" onsubmit="return(validateForm());" name="profileForm">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    <p id="nameVal"></p>
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    <p id="lnameVal"></p>
+
+    <label for="Mobile">Mobile</label>
+    <input id="Mobile" name="Mobile" type="number" placeholder="217896523">
+    <p id="mobVal"></p>
+
+    <label for="add">Address</label>
+    <input type="text" id="add" name="add" placeholder="Your address..">
+    <p id="addVal"></p>
+
+    <label for="emal">Email</label>
+    <input type="text" id="emal" name="emal" placeholder="Example@gamil.com">
+    <p id="mailVal"></p>
+  
+    <input type="submit" value="Submit">
+  </form>
+</div>
+    <script src="./script.js"></script>
+</body>
+</html>
