@@ -1,0 +1,29 @@
+<h1>This is First Component</h1>
+<!-- <app-second></app-second> -->
+<!-- 4+4 = {{4+4}} -->
+<p>{{name}}</p>
+<h1>{{name}}</h1>
+
+<input type="text" value="Ahmed">
+<!--One Way Binding [TS ===> HTML]-->
+<input type="text" value="{{name}}">
+
+<input type="text" [value]="name">
+
+<input type="button" value="Change" (click)="chgName()">
+
+<img src="https://images.unsplash.com/photo-1649675207604-55f5857da6b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60">
+
+
+<img src="../../../assets/Images/1.jpg">
+<img [src]="imgSrc">
+<br><br><br><br><br><br><br><br>
+<!--Two Way Binding-->
+<input type="text" [value]="firstName" placeholder="First Name" (keyup)="getFirstName($event)">
+{{firstName}}
+
+
+<input type="text" placeholder="Last Name" [(ngModel)]="lastName">
+{{lastName}}
+
+<br><br><br><br><br><br><br><br>
