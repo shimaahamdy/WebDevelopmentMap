@@ -1,0 +1,14 @@
+const mongoose = require('mongoose');
+var DBURL = "mongodb://localhost:27017/Write";
+mongoose.connect(DBURL,{useNewUrlParser:true});
+
+
+var PostSchema = new mongoose.Schema(
+    {
+        content:{required:true,type:String},
+        userID:{required:true,type:Number},
+
+    }
+)
+
+module.exports = mongoose.model("posts",PostSchema)
