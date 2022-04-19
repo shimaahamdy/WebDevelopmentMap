@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2p5X8wYWKwuMPBnBl60SsoKbQ15ZthhGpTFL5jWbL6/ZHe7/6Ivbrnm7ytNL9nbEs7wPuefk488gJSEbvmpQVg==",
+  "dgSpecHash": "MRdDQc44qYhi0rdtyqmQF7n5GL5XlrdG1dsfUBUTXDbsriCoVnubDUFg7VyPlfszqltjxinwvZKs6VubLQARrw==",
   "success": true,
-  "projectFilePath": "E:\\software engineering\\ITI\\Task\\30_SignalR\\lab1\\Task2\\Task2.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\lab1\\Task2\\Task2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

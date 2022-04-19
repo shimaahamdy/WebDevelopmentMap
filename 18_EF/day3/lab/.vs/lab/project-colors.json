@@ -25,7 +25,12 @@
       "ProjectGuid": "b1a44813-17ac-4453-9db8-8ccba800031e",
       "DisplayName": "AdvancedSearch",
       "ColorIndex": 3
+    },
+    "e152623c-1fbd-4fce-86f2-50801e8c5dc1": {
+      "ProjectGuid": "e152623c-1fbd-4fce-86f2-50801e8c5dc1",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

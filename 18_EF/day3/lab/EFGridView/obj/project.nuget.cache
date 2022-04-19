@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wV3nuG6F03U6cNntcRvKiNVpnuSYJ6CrstVWAalpRL3XvxdWzecIUEvc2B/v6XywVvC79wWBQTh4ZTm6Zmj5lQ==",
+  "dgSpecHash": "dyMfz6M6ppa242QqQN+GlLpFu/tb+M+rgkQfsibMrSlVedcEOiLKrXHQkM/dO26HG7BX/GhMwpqqUEECnbdz+w==",
   "success": true,
-  "projectFilePath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj",
+  "projectFilePath": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

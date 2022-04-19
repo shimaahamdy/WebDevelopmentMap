@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cyGoyuaZP7K2l9hZLd328OPkVdrk59PeRgFZFku/2vFLfjrXgTBtLAq25+V+i8cdnL5jXS0A1c+aKG49dT0iAg==",
+  "dgSpecHash": "5fomhX4Fk6hXhJ6qts/CeEPAFNqJt/0Z1gtKHMetlszQ5neOm/NgTme5q6cZ7BLqd1Nv0TtRJkq+h965BvcGOQ==",
   "success": true,
-  "projectFilePath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj",
+  "projectFilePath": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

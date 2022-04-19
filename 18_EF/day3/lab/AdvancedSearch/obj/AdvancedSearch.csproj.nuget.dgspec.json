@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj": {}
+    "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj": {}
   },
   "projects": {
-    "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj": {
+    "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj",
+        "projectUniqueName": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj",
         "projectName": "AdvancedSearch",
-        "projectPath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj",
+        "projectPath": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\AdvancedSearch\\AdvancedSearch.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\AdvancedSearch\\obj\\",
+        "outputPath": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\AdvancedSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj": {
-                "projectPath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj"
+              "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj": {
+                "projectPath": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj": {
+    "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj",
+        "projectUniqueName": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj",
         "projectName": "EFGridView",
-        "projectPath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj",
+        "projectPath": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\EFGridView\\EFGridView.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\software engineering\\ITI\\tasks\\18_EF\\day3\\lab\\EFGridView\\obj\\",
+        "outputPath": "E:\\software engineering\\ITI\\Task\\18_EF\\day3\\lab\\EFGridView\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
